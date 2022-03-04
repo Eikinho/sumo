@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2995863993
+    locked: 0
+  - name: Lava
+    uniqueID: 1632796505
+    locked: 0
+  - name: Muro
+    uniqueID: 2388066227
+    locked: 0
