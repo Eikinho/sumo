@@ -9,27 +9,32 @@ public class MovimentoPlayer : MonoBehaviour
     [Range(1,15)]
     float m_Speed;
     float horizontal_speed;
+    private GameObject montanha;
+    bool is_inside;
+    float montanha_radius;
+    bool PointInsideSphere(Vector3 point, Vector3 center, float radius) {
+        return Vector3.Distance(point, center) < radius;
+     }
 
     // Start is called before the first frame update
     void Start()
     {
         m_Rigidbody = GetComponent<Rigidbody2D>();
 
+        montanha = GameObject.FindGameObjectWithTag("Mountain");
         m_Speed = 2.0f;
-
+        is_inside = true;
         horizontal_speed = 300.0f;
-        
-        
+        montanha_radius = montanha.transform.localScale.x / 2;
     }
 
     // Update is called once per frame
     void Update()
     {
-        // float inputY = Input.GetAxis("Vertical");
+        is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
+        Debug.Log(is_inside);
 
-        // transform.Rotate(0.0f,0.0f,  -Input.GetAxis ("Horizontal") * velocidade);
 
-        // transform.right = new Vector3(inputY,0,0);
         if (Input.GetKey(KeyCode.RightArrow))
         {
 
@@ -64,9 +69,7 @@ public class MovimentoPlayer : MonoBehaviour
         // else{
         //     m_Rigidbody.velocity = transform.right * 0;
         // }
-
-
-
-        
     }
+
+
 }
