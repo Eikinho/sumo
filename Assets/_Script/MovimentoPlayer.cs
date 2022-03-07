@@ -37,6 +37,9 @@ public class MovimentoPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (gm.gameState != GameManager.GameState.GAME) return;
+
         Debug.Log($"Vidas P1: {gm.vidasPlayer1} \t | \t Vidas P2 {gm.vidasPlayer2}");
 
         is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
@@ -94,20 +97,42 @@ public class MovimentoPlayer : MonoBehaviour
 
         }
 
+        if (Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME)
+        {
+            gm.changeState(GameManager.GameState.PAUSE);
+        }
+
         if (is_inside == false) {
             Reset();
         }
 
         void Reset()
         {
-            transform.position = new Vector3(0,0,0);
+            
             if (number_player == 1)
             {
-                gm.vidasPlayer1--;
+                if (gm.vidasPlayer1 <= 1)
+                {
+                    gm.vidasPlayer1--;
+                    Destroy(this.gameObject);
+                } else 
+                {
+                    gm.vidasPlayer1--;
+                    transform.position = new Vector3(0,0,0);
+                }
+                
             }
             else if (number_player == 2)
             {
-                gm.vidasPlayer2--;
+                if (gm.vidasPlayer2 <= 1)
+                {
+                    gm.vidasPlayer2--;
+                    Destroy(this.gameObject);
+                } else 
+                {
+                    gm.vidasPlayer2--;
+                    transform.position = new Vector3(0,0,0);
+                }
             }
             
         }
