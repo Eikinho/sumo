@@ -5,6 +5,8 @@ using UnityEngine;
 public class MovimentoPlayer : MonoBehaviour
 {
 
+    GameManager gm;
+
     [Range(1,2)]
     public int number_player;
 
@@ -29,15 +31,17 @@ public class MovimentoPlayer : MonoBehaviour
         is_inside = true;
         horizontal_speed = 300.0f;
         montanha_radius = montanha.transform.localScale.x / 2;
+        gm = GameManager.GetInstance();
     }
 
     // Update is called once per frame
     void Update()
     {
+        Debug.Log($"Vidas P1: {gm.vidasPlayer1} \t | \t Vidas P2 {gm.vidasPlayer2}");
+
         is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
 
         if(number_player ==1){
-            Debug.Log(m_Rigidbody.velocity);
             if (Input.GetKey(KeyCode.RightArrow))
             {
 
@@ -62,6 +66,7 @@ public class MovimentoPlayer : MonoBehaviour
                 m_Rigidbody.velocity = -transform.right * m_Speed;
             }
         }
+
         else if(number_player ==2){
             if (Input.GetKey(KeyCode.D))
             {
@@ -87,6 +92,24 @@ public class MovimentoPlayer : MonoBehaviour
                 m_Rigidbody.velocity = -transform.right * m_Speed;
             }
 
+        }
+
+        if (is_inside == false) {
+            Reset();
+        }
+
+        void Reset()
+        {
+            transform.position = new Vector3(0,0,0);
+            if (number_player == 1)
+            {
+                gm.vidasPlayer1--;
+            }
+            else if (number_player == 2)
+            {
+                gm.vidasPlayer2--;
+            }
+            
         }
         
     }
