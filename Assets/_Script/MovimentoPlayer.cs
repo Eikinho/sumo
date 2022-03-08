@@ -17,6 +17,9 @@ public class MovimentoPlayer : MonoBehaviour
     private GameObject montanha;
     bool is_inside;
     float montanha_radius;
+    private Vector3 start_point;
+
+
     bool PointInsideSphere(Vector3 point, Vector3 center, float radius) {
         return Vector3.Distance(point, center) < radius;
      }
@@ -24,6 +27,7 @@ public class MovimentoPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        start_point = transform.position;
         m_Rigidbody = GetComponent<Rigidbody2D>();
 
         montanha = GameObject.FindGameObjectWithTag("Mountain");
@@ -118,7 +122,6 @@ public class MovimentoPlayer : MonoBehaviour
                 } else 
                 {
                     gm.vidasPlayer1--;
-                    transform.position = new Vector3(0,0,0);
                 }
                 
             }
@@ -131,9 +134,9 @@ public class MovimentoPlayer : MonoBehaviour
                 } else 
                 {
                     gm.vidasPlayer2--;
-                    transform.position = new Vector3(0,0,0);
                 }
             }
+            transform.position = start_point;
             
         }
         
