@@ -8,7 +8,7 @@ public class UI_MenuPrincipal : MonoBehaviour
 
     GameManager gm;
     // Start is called before the first frame update
-    void Start()
+    private void OnEnable()
     {
         gm = GameManager.GetInstance();
     }
@@ -18,9 +18,4 @@ public class UI_MenuPrincipal : MonoBehaviour
         gm.changeState(GameManager.GameState.GAME);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

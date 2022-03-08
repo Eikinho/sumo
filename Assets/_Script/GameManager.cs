@@ -19,7 +19,7 @@ public class GameManager
     {
         vidasPlayer1 = 3;
         vidasPlayer2 = 3;
-        gameState = GameState.GAME;
+        gameState = GameState.MENU;
     }
 
     public static GameManager GetInstance()
