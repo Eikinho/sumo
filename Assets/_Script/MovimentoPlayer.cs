@@ -60,13 +60,13 @@ public class MovimentoPlayer : MonoBehaviour
 
             if (Input.GetKey(KeyCode.UpArrow))
             {
-                m_Rigidbody.AddForce(transform.right * 1.0f);
+                m_Rigidbody.AddForce(-transform.right * 1.0f);
             }
 
             if (Input.GetKey(KeyCode.DownArrow))
             {
                 //Move the Rigidbody to the left constantly at the speed you define (the red arrow axis in Scene view)
-                m_Rigidbody.velocity = -transform.right * m_Speed;
+                m_Rigidbody.velocity = transform.right * m_Speed;
             }
         }
 

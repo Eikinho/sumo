@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 1339469bbbe100c4abc60a877b43d3dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 270323714563605988
+    second: squirtle_0
+  - first:
+      213: -6028334141986740128
+    second: squirtle_1
+  - first:
+      213: 2909029446508080762
+    second: squirtle_2
+  - first:
+      213: 309742749011671196
+    second: squirtle_3
+  - first:
+      213: -5071854782910457300
+    second: squirtle_4
+  - first:
+      213: 2131602738174151101
+    second: squirtle_5
+  - first:
+      213: 4488879571087471324
+    second: squirtle_6
+  - first:
+      213: 7683371395876716127
+    second: squirtle_7
+  - first:
+      213: 8112385176224792703
+    second: squirtle_8
+  - first:
+      213: 7118173922871975004
+    second: squirtle_9
+  - first:
+      213: 4833398468121983437
+    second: squirtle_10
+  - first:
+      213: -4485992214986637920
+    second: squirtle_11
+  - first:
+      213: -6090566184571074511
+    second: squirtle_12
+  - first:
+      213: 6062595612244734715
+    second: squirtle_13
+  - first:
+      213: 4250902915398666592
+    second: squirtle_14
+  - first:
+      213: -4160201973562669584
+    second: squirtle_15
+  - first:
+      213: 3680789309729203339
+    second: squirtle_16
+  - first:
+      213: -4648366618307733333
+    second: squirtle_17
+  - first:
+      213: 1466112292811901208
+    second: squirtle_18
+  - first:
+      213: -5974995124016280164
+    second: squirtle_19
+  - first:
+      213: 773418778728814402
+    second: squirtle_20
+  - first:
+      213: 6360627262686527515
+    second: squirtle_21
+  - first:
+      213: -4167945314251311666
+    second: squirtle_22
+  - first:
+      213: 819645208698014743
+    second: squirtle_23
+  - first:
+      213: -3854549676895600386
+    second: squirtle_24
+  - first:
+      213: 2171044473477746530
+    second: squirtle_25
+  - first:
+      213: -7880791328727723795
+    second: squirtle_26
+  - first:
+      213: 4364342822942936121
+    second: squirtle_27
+  - first:
+      213: -6554924212341882538
+    second: squirtle_28
+  - first:
+      213: 8680666537559052212
+    second: squirtle_29
+  - first:
+      213: 4173329997535786903
+    second: squirtle_30
+  - first:
+      213: -7710812632851244669
+    second: squirtle_31
+  - first:
+      213: -1638891418713785085
+    second: squirtle_32
+  - first:
+      213: -2915959447150060049
+    second: squirtle_33
+  - first:
+      213: -5582458271380250149
+    second: squirtle_34
+  - first:
+      213: 2931927685024148585
+    second: squirtle_35
+  - first:
+      213: -3985148275279490007
+    second: squirtle_36
+  - first:
+      213: -4130968171312244516
+    second: squirtle_37
+  - first:
+      213: 7662761051797886939
+    second: squirtle_38
+  - first:
+      213: -537462779479694056
+    second: squirtle_39
+  - first:
+      213: -2983768592809336382
+    second: squirtle_40
+  - first:
+      213: 6017757487708490466
+    second: squirtle_41
+  - first:
+      213: 9145715867516158527
+    second: squirtle_42
+  - first:
+      213: 8503641793838355761
+    second: squirtle_43
+  - first:
+      213: 6748542513023210889
+    second: squirtle_44
+  - first:
+      213: 2428266639949243767
+    second: squirtle_45
+  - first:
+      213: 2101046759181504936
+    second: squirtle_46
+  - first:
+      213: -8682264333292960645
+    second: squirtle_47
+  - first:
+      213: 6866001974231749441
+    second: squirtle_48
+  - first:
+      213: -578935994144753602
+    second: squirtle_49
+  - first:
+      213: -6433238617086166920
+    second: squirtle_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirtle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e58de47cf160c300800000000000000
+      internalID: 270323714563605988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 301
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068658f890e075ca0800000000000000
+      internalID: -6028334141986740128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 301
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee3407ed2fe5820800000000000000
+      internalID: 2909029446508080762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 301
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f79e936d6c4400800000000000000
+      internalID: 309742749011671196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 303
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a914062f62d99b0800000000000000
+      internalID: -5071854782910457300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 301
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ce1b8569f49d10800000000000000
+      internalID: 2131602738174151101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 301
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd23d22df24bb4e30800000000000000
+      internalID: 4488879571087471324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef0a88391d0aa60800000000000000
+      internalID: 7683371395876716127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 258
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f700606265bf49070800000000000000
+      internalID: 8112385176224792703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 258
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c9b3a1875d8c260800000000000000
+      internalID: 7118173922871975004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 258
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f35e5c4ea31340800000000000000
+      internalID: 4833398468121983437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 260
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adbd8829dd8eb1c0800000000000000
+      internalID: -4485992214986637920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13882a70356f97ba0800000000000000
+      internalID: -6090566184571074511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 258
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf270bc969aa22450800000000000000
+      internalID: 6062595612244734715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698207edad3efa30800000000000000
+      internalID: 4250902915398666592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 215
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50be3c85ef346c0800000000000000
+      internalID: -4160201973562669584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 215
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84e673206ac41330800000000000000
+      internalID: 3680789309729203339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 217
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8dbf1503fad7fb0800000000000000
+      internalID: -4648366618307733333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 217
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81903edcc5da85410800000000000000
+      internalID: 1466112292811901208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 215
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d8152779d841da0800000000000000
+      internalID: -5974995124016280164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 215
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2475fb0184cbbba00800000000000000
+      internalID: 773418778728814402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10881d9bcc754850800000000000000
+      internalID: 6360627262686527515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 172
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5fbc4c1db7826c0800000000000000
+      internalID: -4167945314251311666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 172
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ccb4289f6ff5b00800000000000000
+      internalID: 819645208698014743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 172
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef08a8bbd73e18ac0800000000000000
+      internalID: -3854549676895600386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 174
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f47392279112e10800000000000000
+      internalID: 2171044473477746530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 172
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0943e6a0ec1a290800000000000000
+      internalID: -7880791328727723795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 172
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0a879ca2419c30800000000000000
+      internalID: 4364342822942936121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65141c9882b3805a0800000000000000
+      internalID: -6554924212341882538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 129
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc3d8493ce77870800000000000000
+      internalID: 8680666537559052212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 129
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7973a918585aae930800000000000000
+      internalID: 4173329997535786903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 129
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899e4993c0bdf490800000000000000
+      internalID: -7710812632851244669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 129
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df02a10fc7149e0800000000000000
+      internalID: -1638891418713785085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed1d2d055e6887d0800000000000000
+      internalID: -2915959447150060049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 129
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd160f087cf1782b0800000000000000
+      internalID: -5582458271380250149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6ffc02bc40b820800000000000000
+      internalID: 2931927685024148585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92494b202c8e1b8c0800000000000000
+      internalID: -3985148275279490007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 86
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81d72c55adba6c0800000000000000
+      internalID: -4130968171312244516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 86
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd79c1bd398975a60800000000000000
+      internalID: 7662761051797886939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 86
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8156e1d137c8a88f0800000000000000
+      internalID: -537462779479694056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 86
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e1a506468796d0800000000000000
+      internalID: -2983768592809336382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 86
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eacf473d8e538350800000000000000
+      internalID: 6017757487708490466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3244fb102c1cee70800000000000000
+      internalID: 9145715867516158527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13596e24821030670800000000000000
+      internalID: 8503641793838355761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_44
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 43
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985de5809a3a7ad50800000000000000
+      internalID: 6748542513023210889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 43
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752b1eb4afe2b120800000000000000
+      internalID: 2428266639949243767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1df7945ea682d10800000000000000
+      internalID: 2101046759181504936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748708e696628780800000000000000
+      internalID: -8682264333292960645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 43
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d63dfa60f84f50800000000000000
+      internalID: 6866001974231749441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387059d7c437f7f0800000000000000
+      internalID: -578935994144753602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f041009b88b6a0800000000000000
+      internalID: -6433238617086166920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
