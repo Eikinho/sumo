@@ -33,7 +33,7 @@ public class MovimentoPlayer : MonoBehaviour
         montanha = GameObject.FindGameObjectWithTag("Mountain");
         m_Speed = 2.0f;
         is_inside = true;
-        horizontal_speed = 300.0f;
+        horizontal_speed = 285.0f;
         montanha_radius = montanha.transform.localScale.x / 2;
         gm = GameManager.GetInstance();
     }
@@ -64,13 +64,13 @@ public class MovimentoPlayer : MonoBehaviour
 
             if (Input.GetKey(KeyCode.UpArrow))
             {
-                m_Rigidbody.AddForce(-transform.right * 1.0f);
+                m_Rigidbody.AddForce(transform.right * 1.0f);
             }
 
             if (Input.GetKey(KeyCode.DownArrow))
             {
                 //Move the Rigidbody to the left constantly at the speed you define (the red arrow axis in Scene view)
-                m_Rigidbody.velocity = transform.right * m_Speed;
+                m_Rigidbody.AddForce(-transform.right * 0.5f);
             }
         }
 
@@ -96,7 +96,7 @@ public class MovimentoPlayer : MonoBehaviour
             if (Input.GetKey(KeyCode.S))
             {
                 //Move the Rigidbody to the left constantly at the speed you define (the red arrow axis in Scene view)
-                m_Rigidbody.velocity = -transform.right * m_Speed;
+                m_Rigidbody.AddForce(-transform.right * 0.5f);
             }
 
         }
@@ -137,6 +137,7 @@ public class MovimentoPlayer : MonoBehaviour
                 }
             }
             transform.position = start_point;
+            m_Rigidbody.velocity = new Vector3(0,0,0);
             
         }
         
