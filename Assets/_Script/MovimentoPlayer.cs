@@ -44,6 +44,8 @@ public class MovimentoPlayer : MonoBehaviour
         gameObject.GetComponent<Renderer>().enabled = false;
         gameObject.GetComponent<CircleCollider2D>().enabled = false;
         yield return new WaitForSeconds(seconds);
+        transform.position = start_point;
+        m_Rigidbody.velocity = new Vector3(0,0,0);
         gameObject.GetComponent<Renderer>().enabled = true;
         gameObject.GetComponent<CircleCollider2D>().enabled = true;
     }
@@ -154,7 +156,6 @@ public class MovimentoPlayer : MonoBehaviour
             transform.position = start_point;
             m_Rigidbody.velocity = new Vector3(0,0,0);
             Reset();
-            
             
         }
 
