@@ -38,14 +38,58 @@ public class MovimentoPlayer : MonoBehaviour
         gm = GameManager.GetInstance();
     }
 
+     //moves this object to the origin, waits for 2 seconds, then moves it to (10,10,10)
+    IEnumerator WaitSeconds(float seconds)
+    {
+        gameObject.GetComponent<Renderer>().enabled = false;
+        gameObject.GetComponent<CircleCollider2D>().enabled = false;
+        yield return new WaitForSeconds(seconds);
+        gameObject.GetComponent<Renderer>().enabled = true;
+        gameObject.GetComponent<CircleCollider2D>().enabled = true;
+    }
+
+
+    void Reset()
+        {
+            
+            if (number_player == 1)
+            {
+                if (gm.vidasPlayer1 <= 1)
+                {
+                    gm.vidasPlayer1--;
+                    Destroy(this.gameObject);
+                } else 
+                {
+                    gm.vidasPlayer1--;
+                    StartCoroutine(WaitSeconds(1f));
+                }
+                
+            }
+            else if (number_player == 2)
+            {
+                if (gm.vidasPlayer2 <= 1)
+                {
+                    gm.vidasPlayer2--;
+                    Destroy(this.gameObject);
+                } else 
+                {
+                    gm.vidasPlayer2--;
+                    StartCoroutine(WaitSeconds(1f));
+                    // yield return new WaitForSeconds(2f);
+                }
+            }
+            
+            
+            
+        }
+
     // Update is called once per frame
     void Update()
     {
 
         if (gm.gameState != GameManager.GameState.GAME) return;
 
-        Debug.Log($"Vidas P1: {gm.vidasPlayer1} \t | \t Vidas P2 {gm.vidasPlayer2}");
-
+        
         is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
 
         if(number_player ==1){
@@ -107,39 +151,14 @@ public class MovimentoPlayer : MonoBehaviour
         }
 
         if (is_inside == false) {
-            Reset();
-        }
-
-        void Reset()
-        {
-            
-            if (number_player == 1)
-            {
-                if (gm.vidasPlayer1 <= 1)
-                {
-                    gm.vidasPlayer1--;
-                    Destroy(this.gameObject);
-                } else 
-                {
-                    gm.vidasPlayer1--;
-                }
-                
-            }
-            else if (number_player == 2)
-            {
-                if (gm.vidasPlayer2 <= 1)
-                {
-                    gm.vidasPlayer2--;
-                    Destroy(this.gameObject);
-                } else 
-                {
-                    gm.vidasPlayer2--;
-                }
-            }
             transform.position = start_point;
             m_Rigidbody.velocity = new Vector3(0,0,0);
+            Reset();
+            
             
         }
+
+        
         
     }
 
