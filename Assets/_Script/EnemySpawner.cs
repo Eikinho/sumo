@@ -13,6 +13,8 @@ public class EnemySpawner : MonoBehaviour
     void Start()
     {
         listOfPosition = new List<Vector3>();
+        listOfPosition.Add(new Vector3(0,3,0));
+        listOfPosition.Add(new Vector3(0,-3,0));
         gm = GameManager.GetInstance();
         // Enemy.player1 = Player1;
         // Enemy.player2 = Player2;
@@ -24,16 +26,15 @@ public class EnemySpawner : MonoBehaviour
         {
             Instantiate(Enemy,new Vector3(0,0,0), Quaternion.identity, transform);
 
-            // foreach (Transform child in transform) {
-            //     GameObject.Destroy(child.gameObject);
-            // }
-            // for(int i = 0; i < 12; i++)
-            // {
-            //     for(int j = 0; j < 4; j++){
-            //         Vector3 posicao = new Vector3(-9 + 1.55f * i, 4 - 0.55f * j);
-            //         Instantiate(Enemy, posicao, Quaternion.identity, transform);
-            //     }
-            // }
+            foreach (Transform child in transform) {
+                GameObject.Destroy(child.gameObject);
+            }
+            for(int i = 0; i < listOfPosition.Count; i++)
+            {
+                
+                Instantiate(Enemy, listOfPosition[i], Quaternion.identity, transform);
+            
+            }
         }
     }
 

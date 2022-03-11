@@ -52,7 +52,7 @@ public class MovimentoEnemy : MonoBehaviour
     {
         Vector3 direction =return_direction();
         yield return new WaitForSeconds(seconds);
-        m_Rigidbody.AddForce(direction.normalized*0.5f);
+        m_Rigidbody.AddForce(direction.normalized*0.8f);
     }
 
     Vector3 return_direction(){
