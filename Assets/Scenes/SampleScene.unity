@@ -152,6 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8f21e882c1c66a4980739681496d4c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  listOfPosition: []
   Enemy: {fileID: 9101581414802947108, guid: 542c94b4ee291354db030d4459261690, type: 3}
 --- !u!4 &274450114
 Transform:

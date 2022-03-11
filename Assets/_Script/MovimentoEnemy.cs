@@ -47,9 +47,15 @@ public class MovimentoEnemy : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
+    //moves this object to the origin, waits for 2 seconds, then moves it to (10,10,10)
+    IEnumerator WaitSeconds(float seconds)
     {
+        Vector3 direction =return_direction();
+        yield return new WaitForSeconds(seconds);
+        m_Rigidbody.AddForce(direction.normalized*0.5f);
+    }
+
+    Vector3 return_direction(){
         player1_alive = check_is_alive(player1);
         player2_alive = check_is_alive(player2);
 
@@ -65,18 +71,60 @@ public class MovimentoEnemy : MonoBehaviour
         }
         if((player1_alive == true) && (player2_alive == true)){
             if(distance_player1 < distance_player2){
-                m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
+                return direction_player1;
+                // m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
             }
             else{
-                m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
+                return direction_player2;
+                // m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
             }
         }
         else if(player1_alive == true){
-            m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
+            return direction_player1;
+            // m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
         }
-        else if(player2_alive == true){
-            m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
+        else if(player2_alive == true)
+        {
+            return direction_player2;
+            // m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
         }
+        else{
+            return new Vector3(0,0,0);
+        }
+}
+
+    // Update is called once per frame
+    void Update()
+    {
+
+        StartCoroutine(WaitSeconds(0.5f));
+        // player1_alive = check_is_alive(player1);
+        // player2_alive = check_is_alive(player2);
+
+        // if (player1_alive){
+        //     Vector3 player1_position = player1.transform.position;
+        //     direction_player1 = player1_position - transform.position;
+        //     distance_player1 = Vector3.Distance(transform.position, player1_position);
+        // }
+        // if(player2_alive){
+        //     Vector3 player2_position = player2.transform.position;
+        //     direction_player2 = player2_position - transform.position;
+        //     distance_player2 = Vector3.Distance(transform.position, player2_position);
+        // }
+        // if((player1_alive == true) && (player2_alive == true)){
+        //     if(distance_player1 < distance_player2){
+        //         m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
+        //     }
+        //     else{
+        //         m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
+        //     }
+        // }
+        // else if(player1_alive == true){
+        //     m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
+        // }
+        // else if(player2_alive == true){
+        //     m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
+        // }
 
         
         
