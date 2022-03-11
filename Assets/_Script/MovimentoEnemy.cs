@@ -5,6 +5,8 @@ using UnityEngine;
 public class MovimentoEnemy : MonoBehaviour
 {
 
+    GameManager gm;
+
     Rigidbody2D m_Rigidbody;
     private GameObject montanha;
     public GameObject player1;
@@ -33,6 +35,11 @@ public class MovimentoEnemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        gm = GameManager.GetInstance();
+
+        player1 = GameObject.FindGameObjectWithTag("Player1");
+        player2 = GameObject.FindGameObjectWithTag("Player2");
+        
         m_Rigidbody = GetComponent<Rigidbody2D>();
         montanha = GameObject.FindGameObjectWithTag("Mountain");
         player1_alive = check_is_alive(player1);

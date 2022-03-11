@@ -27,6 +27,7 @@ public class MovimentoPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        gm = GameManager.GetInstance();
         start_point = transform.position;
         m_Rigidbody = GetComponent<Rigidbody2D>();
 
@@ -35,7 +36,7 @@ public class MovimentoPlayer : MonoBehaviour
         is_inside = true;
         horizontal_speed = 285.0f;
         montanha_radius = montanha.transform.localScale.x / 2;
-        gm = GameManager.GetInstance();
+        
     }
 
      //moves this object to the origin, waits for 2 seconds, then moves it to (10,10,10)
