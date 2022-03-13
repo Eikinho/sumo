@@ -15,6 +15,7 @@ public class UI_Pause : MonoBehaviour
     // Update is called once per frame
     public void Retornar()
     {
+
         gm.changeState(GameManager.GameState.GAME);
     }
 

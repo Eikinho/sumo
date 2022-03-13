@@ -98,6 +98,7 @@ public class MovimentoEnemy : MonoBehaviour
     void Update()
     {
 
+        if (gm.gameState != GameManager.GameState.GAME) return;
         StartCoroutine(WaitSeconds(0.25f));
         // player1_alive = check_is_alive(player1);
         // player2_alive = check_is_alive(player2);

@@ -45,6 +45,10 @@ public class MovimentoPlayer : MonoBehaviour
         gameObject.GetComponent<Renderer>().enabled = false;
         gameObject.GetComponent<CircleCollider2D>().enabled = false;
         yield return new WaitForSeconds(seconds);
+        reset_position();
+    }
+
+    public void reset_position(){
         transform.position = start_point;
         m_Rigidbody.velocity = new Vector3(0,0,0);
         gameObject.GetComponent<Renderer>().enabled = true;
@@ -60,7 +64,8 @@ public class MovimentoPlayer : MonoBehaviour
                 if (gm.vidasPlayer1 <= 1)
                 {
                     gm.vidasPlayer1--;
-                    Destroy(this.gameObject);
+                    gm.changeState(GameManager.GameState.ENDGAME);
+                    // Destroy(this.gameObject);
                 } else 
                 {
                     gm.vidasPlayer1--;
@@ -73,7 +78,8 @@ public class MovimentoPlayer : MonoBehaviour
                 if (gm.vidasPlayer2 <= 1)
                 {
                     gm.vidasPlayer2--;
-                    Destroy(this.gameObject);
+                    // Destroy(this.gameObject);
+                    gm.changeState(GameManager.GameState.ENDGAME);
                 } else 
                 {
                     gm.vidasPlayer2--;
@@ -91,7 +97,7 @@ public class MovimentoPlayer : MonoBehaviour
     {
 
         if (gm.gameState != GameManager.GameState.GAME) return;
-
+        Time.timeScale = 1f;
         
         is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
 
@@ -150,8 +156,10 @@ public class MovimentoPlayer : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME)
         {
+            Time.timeScale = 0f;
             gm.changeState(GameManager.GameState.PAUSE);
         }
+        
 
         if (is_inside == false) {
             transform.position = start_point;
