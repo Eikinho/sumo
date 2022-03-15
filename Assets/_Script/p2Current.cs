@@ -6,13 +6,13 @@ using UnityEngine.UI;
 public class p2Current : MonoBehaviour
 {
 
-    Text textComp;
+    public Animator animator;
     GameManager gm;
 
     // Start is called before the first frame update
     void Start()
     {
-        textComp = GetComponent<Text>();
+        animator = GetComponent<Animator>();
         gm = GameManager.GetInstance();
 
     }
@@ -20,6 +20,6 @@ public class p2Current : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        textComp.text = $" You choosed: {gm.p2PokemonId}";
+        animator.SetInteger("pokeId", gm.p2PokemonId);
     }
 }
