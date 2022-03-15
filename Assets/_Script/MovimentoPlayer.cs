@@ -35,7 +35,7 @@ public class MovimentoPlayer : MonoBehaviour
         animator =  GetComponent<Animator>();
 
         montanha = GameObject.FindGameObjectWithTag("Mountain");
-        m_Speed = 1.0f;
+        m_Speed = 0.8f;
         is_inside = true;
         horizontal_speed = 285.0f;
         montanha_radius = montanha.transform.localScale.x / 2;
@@ -112,24 +112,26 @@ public class MovimentoPlayer : MonoBehaviour
             {
 
                 //rotate the sprite about the Z axis in the positive direction
-                transform.Rotate(new Vector3(0, 0, -1) * horizontal_speed * Time.deltaTime, Space.World);
+                // transform.Rotate(new Vector3(0, 0, -1) * horizontal_speed * Time.deltaTime, Space.World);
+                m_Rigidbody.AddForce(transform.right * -m_Speed);
             }
 
             if (Input.GetKey(KeyCode.LeftArrow))
             {
                 //rotate the sprite about the Z axis in the positive direction
-                transform.Rotate(new Vector3(0, 0, 1) * horizontal_speed * Time.deltaTime, Space.World);
+                // transform.Rotate(new Vector3(0, 0, 1) * horizontal_speed * Time.deltaTime, Space.World);
+                m_Rigidbody.AddForce(transform.right * m_Speed);
             }
 
             if (Input.GetKey(KeyCode.UpArrow))
             {
-                m_Rigidbody.AddForce(transform.right * m_Speed);
+                m_Rigidbody.AddForce(transform.up * m_Speed);
             }
 
             if (Input.GetKey(KeyCode.DownArrow))
             {
                 //Move the Rigidbody to the left constantly at the speed you define (the red arrow axis in Scene view)
-                m_Rigidbody.AddForce(-transform.right * m_Speed/2);
+                m_Rigidbody.AddForce(transform.up * -m_Speed);
             }
         }
 
@@ -141,24 +143,26 @@ public class MovimentoPlayer : MonoBehaviour
             {
 
                 //rotate the sprite about the Z axis in the positive direction
-                transform.Rotate(new Vector3(0, 0, -1) * horizontal_speed * Time.deltaTime, Space.World);
+                m_Rigidbody.AddForce(transform.right * m_Speed);
+                // transform.Rotate(new Vector3(0, 0, -1) * horizontal_speed * Time.deltaTime, Space.World);
             }
 
             if (Input.GetKey(KeyCode.A))
             {
                 //rotate the sprite about the Z axis in the positive direction
-                transform.Rotate(new Vector3(0, 0, 1) * horizontal_speed * Time.deltaTime, Space.World);
+                m_Rigidbody.AddForce(transform.right * -m_Speed);
+                // transform.Rotate(new Vector3(0, 0, 1) * horizontal_speed * Time.deltaTime, Space.World);
             }
 
             if (Input.GetKey(KeyCode.W))
             {
-                m_Rigidbody.AddForce(transform.right * m_Speed);
+                m_Rigidbody.AddForce(transform.up * m_Speed);
             }
 
             if (Input.GetKey(KeyCode.S))
             {
                 //Move the Rigidbody to the left constantly at the speed you define (the red arrow axis in Scene view)
-                m_Rigidbody.AddForce(-transform.right * m_Speed/2);
+                m_Rigidbody.AddForce(transform.up * -m_Speed);
             }
 
         }
