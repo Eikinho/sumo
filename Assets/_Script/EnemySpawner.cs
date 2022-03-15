@@ -16,7 +16,7 @@ public class EnemySpawner : MonoBehaviour
             new Vector3(0,3,0),new Vector3(0,-3,0)
         };
         listOfColors = new List<Color>{
-            Color.blue, Color.yellow
+            Color.white, Color.white
         };
 
 

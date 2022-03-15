@@ -97,6 +97,12 @@ public class MovimentoPlayer : MonoBehaviour
     void Update()
     {
 
+        if (gm.gameState == GameManager.GameState.ENDGAME)
+        {
+            gm.p1PokemonId = 0;
+            gm.p2PokemonId = 0;
+        }
+
         if (gm.gameState != GameManager.GameState.GAME) return;
         Time.timeScale = 1f;
         
