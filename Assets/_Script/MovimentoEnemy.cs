@@ -65,33 +65,6 @@ public class MovimentoEnemy : MonoBehaviour
         else{
             return new Vector3(0,0,0);
         }
-        // if(player2_alive){
-        //     Vector3 player2_position = player2.transform.position;
-        //     direction_player2 = player2_position - transform.position;
-        //     distance_player2 = Vector3.Distance(transform.position, player2_position);
-        // }
-        // if((player1_alive == true) && (player2_alive == true)){
-        //     if(distance_player1 < distance_player2){
-        //         return direction_player1;
-        //         // m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
-        //     }
-        //     else{
-        //         return direction_player2;
-        //         // m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
-        //     }
-        // }
-        // else if(player1_alive == true){
-        //     return direction_player1;
-        //     // m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
-        // }
-        // else if(player2_alive == true)
-        // {
-        //     return direction_player2;
-        //     // m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
-        // }
-        // else{
-        //     return new Vector3(0,0,0);
-        // }
 }
 
     // Update is called once per frame
@@ -100,33 +73,6 @@ public class MovimentoEnemy : MonoBehaviour
 
         if (gm.gameState != GameManager.GameState.GAME) return;
         StartCoroutine(WaitSeconds(0.25f));
-        // player1_alive = check_is_alive(player1);
-        // player2_alive = check_is_alive(player2);
-
-        // if (player1_alive){
-        //     Vector3 player1_position = player1.transform.position;
-        //     direction_player1 = player1_position - transform.position;
-        //     distance_player1 = Vector3.Distance(transform.position, player1_position);
-        // }
-        // if(player2_alive){
-        //     Vector3 player2_position = player2.transform.position;
-        //     direction_player2 = player2_position - transform.position;
-        //     distance_player2 = Vector3.Distance(transform.position, player2_position);
-        // }
-        // if((player1_alive == true) && (player2_alive == true)){
-        //     if(distance_player1 < distance_player2){
-        //         m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
-        //     }
-        //     else{
-        //         m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
-        //     }
-        // }
-        // else if(player1_alive == true){
-        //     m_Rigidbody.AddForce(direction_player1.normalized*0.5f);
-        // }
-        // else if(player2_alive == true){
-        //     m_Rigidbody.AddForce(direction_player2.normalized*0.5f);
-        // }
 
         
         

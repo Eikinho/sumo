@@ -5,7 +5,7 @@ using UnityEngine;
 public class MovimentoPlayer : MonoBehaviour
 {
 
-    GameManager gm;
+    public GameManager gm;
 
     public Animator animator;
 
@@ -15,7 +15,6 @@ public class MovimentoPlayer : MonoBehaviour
     Rigidbody2D m_Rigidbody;
     [Range(1,15)]
     float m_Speed;
-    float horizontal_speed;
     private GameObject montanha;
     bool is_inside;
     float montanha_radius;
@@ -37,7 +36,6 @@ public class MovimentoPlayer : MonoBehaviour
         montanha = GameObject.FindGameObjectWithTag("Mountain");
         m_Speed = 0.8f;
         is_inside = true;
-        horizontal_speed = 285.0f;
         montanha_radius = montanha.transform.localScale.x / 2;
         
     }
