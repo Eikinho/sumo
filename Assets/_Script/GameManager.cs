@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager
 {
-    public enum GameState { MENU, GAME, PAUSE, ENDGAME };
+    public enum GameState { MENU, SELECT, GAME, PAUSE, ENDGAME };
     public GameState gameState { get; private set; }
 
     public int vidasPlayer1;
@@ -14,6 +14,8 @@ public class GameManager
 
     public delegate void ChangeStateDelegate();
     public static ChangeStateDelegate changeStateDelegate;
+    public int p1PokemonId = 1;
+    public int p2PokemonId = 1;
 
     private GameManager()
     {

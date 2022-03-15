@@ -7,6 +7,8 @@ public class MovimentoPlayer : MonoBehaviour
 
     GameManager gm;
 
+    public Animator animator;
+
     [Range(1,2)]
     public int number_player;
 
@@ -30,6 +32,7 @@ public class MovimentoPlayer : MonoBehaviour
         gm = GameManager.GetInstance();
         start_point = transform.position;
         m_Rigidbody = GetComponent<Rigidbody2D>();
+        animator =  GetComponent<Animator>();
 
         montanha = GameObject.FindGameObjectWithTag("Mountain");
         m_Speed = 1.0f;
@@ -102,6 +105,9 @@ public class MovimentoPlayer : MonoBehaviour
         is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
 
         if(number_player ==1){
+
+            animator.SetInteger("pokeId", gm.p1PokemonId);
+
             if (Input.GetKey(KeyCode.RightArrow))
             {
 
@@ -128,6 +134,9 @@ public class MovimentoPlayer : MonoBehaviour
         }
 
         else if(number_player ==2){
+
+            animator.SetInteger("pokeId", gm.p2PokemonId);
+
             if (Input.GetKey(KeyCode.D))
             {
 

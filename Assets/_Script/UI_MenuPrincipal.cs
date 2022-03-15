@@ -15,7 +15,7 @@ public class UI_MenuPrincipal : MonoBehaviour
 
     public void StartButton()
     {
-        gm.changeState(GameManager.GameState.GAME);
+        gm.changeState(GameManager.GameState.SELECT);
     }
 
 }
