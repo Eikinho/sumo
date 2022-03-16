@@ -423,7 +423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61322be0c1ccc014393a02cbb1e1dbef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelUpBuff: {fileID: 2439118825477563940, guid: e921d1a0e1abc5c47b26d6eccd077064, type: 3}
+  LevelUpBuff: {fileID: 3396797965302759593, guid: 8b0995a6ddd6bba449383b21462267f7, type: 3}
   montanha: {fileID: 1032367629}
 --- !u!4 &229582038
 Transform:
