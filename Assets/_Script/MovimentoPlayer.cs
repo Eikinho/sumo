@@ -20,6 +20,8 @@ public class MovimentoPlayer : MonoBehaviour
     float montanha_radius;
     private Vector3 start_point;
 
+    public int level;
+
 
     bool PointInsideSphere(Vector3 point, Vector3 center, float radius) {
         return Vector3.Distance(point, center) < radius;
@@ -92,6 +94,24 @@ public class MovimentoPlayer : MonoBehaviour
             
             
         }
+
+    public void levelUp(int amount_level){
+        if(number_player == 1){
+            gm.levelPlayer1+=amount_level;
+
+            if (gm.levelPlayer1>3){
+                Debug.Log("Player 1 is level " + gm.levelPlayer1);
+            }
+
+        }
+        else{
+            gm.levelPlayer2++;
+            if (gm.levelPlayer2>3){
+                Debug.Log("Player 2 is level " + gm.levelPlayer2);
+            }
+        }
+
+    }
 
     // Update is called once per frame
     void Update()
@@ -184,8 +204,6 @@ public class MovimentoPlayer : MonoBehaviour
             Reset();
             
         }
-
-        
         
     }
 

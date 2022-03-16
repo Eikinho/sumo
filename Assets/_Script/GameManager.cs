@@ -10,6 +10,8 @@ public class GameManager
     public int vidasPlayer1;
     public int vidasPlayer2;
 
+    public int levelPlayer1;
+    public int levelPlayer2;
     private static GameManager _instance;
 
     public delegate void ChangeStateDelegate();
@@ -17,10 +19,16 @@ public class GameManager
     public int p1PokemonId = 1;
     public int p2PokemonId = 1;
 
+
+        
+
     private GameManager()
     {
         vidasPlayer1 = 3;
         vidasPlayer2 = 3;
+        levelPlayer1 = 1;
+        levelPlayer2 = 1;
+
         gameState = GameState.MENU;
     }
 
@@ -37,7 +45,11 @@ public class GameManager
     public void changeState(GameState nextState)
     {
 
-        if (nextState == GameState.GAME && gameState != GameState.PAUSE) Reset();
+        if (nextState == GameState.GAME && gameState != GameState.PAUSE){
+            Reset();
+            GameObject.Find("LevelUpPool").GetComponent<LevelUpSpawner>().Reset();
+
+        } 
 
         gameState = nextState;
         changeStateDelegate();
@@ -47,6 +59,8 @@ public class GameManager
     {
         vidasPlayer1 = 3;
         vidasPlayer2 = 3;
+        levelPlayer1 = 1;
+        levelPlayer2 = 1;
     }
 
 }
