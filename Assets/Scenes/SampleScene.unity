@@ -1510,6 +1510,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
   number_player: 2
+  levelPlayer: 0
+  levelPlayer_fragment: 0
   level: 0
 --- !u!212 &660764184
 SpriteRenderer:
@@ -7134,6 +7136,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
   number_player: 1
+  levelPlayer: 0
+  levelPlayer_fragment: 0
   level: 0
 --- !u!212 &1829608451
 SpriteRenderer:

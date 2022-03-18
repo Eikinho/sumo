@@ -19,6 +19,8 @@ public class MovimentoPlayer : MonoBehaviour
     bool is_inside;
     float montanha_radius;
     private Vector3 start_point;
+    public int levelPlayer;
+    public int levelPlayer_fragment;
 
     public int level;
 
@@ -30,6 +32,8 @@ public class MovimentoPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        levelPlayer_fragment = 0;
+        levelPlayer = 1;
         gm = GameManager.GetInstance();
         start_point = transform.position;
         m_Rigidbody = GetComponent<Rigidbody2D>();
@@ -95,23 +99,29 @@ public class MovimentoPlayer : MonoBehaviour
             
         }
 
-    public void levelUp(int amount_level){
-        if(number_player == 1){
-            gm.levelPlayer1+=amount_level;
 
-            if (gm.levelPlayer1>3){
-                Debug.Log("Player 1 is level " + gm.levelPlayer1);
-            }
-
-        }
-        else{
-            gm.levelPlayer2++;
-            if (gm.levelPlayer2>3){
-                Debug.Log("Player 2 is level " + gm.levelPlayer2);
-            }
-        }
+    
+    public void changeSizeLevelUp(int mass, float size_x,float size_y, float speed){
+        m_Rigidbody.mass += mass;
+        transform.localScale += new Vector3(size_x,size_y,0);
+        m_Speed+=speed;
 
     }
+    public void levelUp(int amount_level){
+        levelPlayer_fragment++;
+        if (levelPlayer_fragment>=6 && levelPlayer <3){
+            print("level3");
+            levelPlayer = 3;
+            changeSizeLevelUp(1,0.5f,0.5f,2f);
+        }
+        else if (levelPlayer_fragment>=3 && levelPlayer <2){
+            print("level2");
+            levelPlayer = 2;
+            changeSizeLevelUp(1,0.5f,0.5f,1f);
+        }
+    }
+
+
 
     // Update is called once per frame
     void FixedUpdate()
