@@ -36,7 +36,7 @@ public class MovimentoPlayer : MonoBehaviour
         animator =  GetComponent<Animator>();
 
         montanha = GameObject.FindGameObjectWithTag("Mountain");
-        m_Speed = 0.8f;
+        m_Speed = 5.75f;
         is_inside = true;
         montanha_radius = montanha.transform.localScale.x / 2;
         
@@ -114,7 +114,7 @@ public class MovimentoPlayer : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
 
         if (gm.gameState == GameManager.GameState.ENDGAME)

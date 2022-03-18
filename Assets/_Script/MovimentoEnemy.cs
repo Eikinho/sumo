@@ -49,7 +49,7 @@ public class MovimentoEnemy : MonoBehaviour
     {
         Vector3 direction =return_direction();
         yield return new WaitForSeconds(seconds);
-        m_Rigidbody.AddForce(direction.normalized*1.2f);
+        m_Rigidbody.AddForce(direction.normalized*6.2f);
     }
 
     Vector3 return_direction(){
@@ -68,7 +68,7 @@ public class MovimentoEnemy : MonoBehaviour
 }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
 
         if (gm.gameState != GameManager.GameState.GAME) return;
