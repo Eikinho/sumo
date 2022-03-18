@@ -5,13 +5,12 @@ using UnityEngine;
 public class selectButton : MonoBehaviour
 {
    public int pokemonId;
-   public int pChoosing;
     GameManager gm;
     // Start is called before the first frame update
     private void Start()
     {
         gm = GameManager.GetInstance();
-        pChoosing = gm.pChoosing;
+        gm.pChoosing = 1;
     }
 
     public void play(){
@@ -19,14 +18,14 @@ public class selectButton : MonoBehaviour
     }
 
     public void choosed() {
-        pChoosing = 2;
+        gm.pChoosing = 2;
     }
 
     // Update is called once per frame
     public void charmander()
     {
        pokemonId = 1;
-       if (pChoosing == 1)
+       if (gm.pChoosing == 1)
        {
            gm.p1PokemonId =  pokemonId;
        } else {
@@ -38,7 +37,7 @@ public class selectButton : MonoBehaviour
     {
 
         pokemonId = 2;
-        if (pChoosing == 1)
+        if (gm.pChoosing == 1)
        {
            gm.p1PokemonId =  pokemonId;
        } else {
@@ -50,7 +49,7 @@ public class selectButton : MonoBehaviour
     {
 
         pokemonId = 3;
-        if (pChoosing == 1)
+        if (gm.pChoosing == 1)
        {
            gm.p1PokemonId =  pokemonId;
        } else {
@@ -62,7 +61,7 @@ public class selectButton : MonoBehaviour
     {
 
         pokemonId = 4;
-        if (pChoosing == 1)
+        if (gm.pChoosing == 1)
        {
            gm.p1PokemonId =  pokemonId;
        } else {
@@ -74,7 +73,7 @@ public class selectButton : MonoBehaviour
     {
 
         pokemonId = 5;
-        if (pChoosing == 1)
+        if (gm.pChoosing == 1)
         {
             gm.p1PokemonId =  pokemonId;
         } else {

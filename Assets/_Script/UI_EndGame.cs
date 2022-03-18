@@ -22,7 +22,9 @@ public class UI_EndGame : MonoBehaviour
     }
 
     public void Restart(){
+        gm.pChoosing = 1;
         gm.changeState(GameManager.GameState.SELECT);
+
     }
 
 }

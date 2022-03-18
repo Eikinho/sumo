@@ -24,6 +24,8 @@ public class UI_Pause : MonoBehaviour
     public void Inicio()
     {
         Time.timeScale = 1f;
+        gm.pChoosing = 1;
         gm.changeState(GameManager.GameState.MENU);
+        
     }
 }
