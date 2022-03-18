@@ -125,7 +125,7 @@ public class MovimentoPlayer : MonoBehaviour
         }
 
         else if (gm.gameState != GameManager.GameState.GAME){
-            
+            m_Rigidbody.velocity = new Vector3(0,0,0);
             return;  
         } 
         Time.timeScale = 1f;

@@ -71,7 +71,10 @@ public class MovimentoEnemy : MonoBehaviour
     void FixedUpdate()
     {
 
-        if (gm.gameState != GameManager.GameState.GAME) return;
+        if (gm.gameState != GameManager.GameState.GAME){
+            m_Rigidbody.velocity = new Vector3(0,0,0);
+            return;
+        } 
         StartCoroutine(WaitSeconds(0.25f));
 
         
