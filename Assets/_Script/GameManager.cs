@@ -18,6 +18,7 @@ public class GameManager
     public static ChangeStateDelegate changeStateDelegate;
     public int p1PokemonId = 1;
     public int p2PokemonId = 1;
+    public int pChoosing;
 
 
         
@@ -28,6 +29,7 @@ public class GameManager
         vidasPlayer2 = 3;
         levelPlayer1 = 1;
         levelPlayer2 = 1;
+        pChoosing = 1;
 
         gameState = GameState.MENU;
     }

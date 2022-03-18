@@ -5,12 +5,13 @@ using UnityEngine;
 public class selectButton : MonoBehaviour
 {
    public int pokemonId;
-   public int pChoosing = 1;
+   public int pChoosing;
     GameManager gm;
     // Start is called before the first frame update
     private void Start()
     {
         gm = GameManager.GetInstance();
+        pChoosing = gm.pChoosing;
     }
 
     public void play(){

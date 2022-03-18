@@ -121,9 +121,13 @@ public class MovimentoPlayer : MonoBehaviour
         {
             gm.p1PokemonId = 0;
             gm.p2PokemonId = 0;
+            gm.pChoosing = 1;
         }
 
-        if (gm.gameState != GameManager.GameState.GAME) return;
+        else if (gm.gameState != GameManager.GameState.GAME){
+            
+            return;  
+        } 
         Time.timeScale = 1f;
         
         is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
@@ -191,11 +195,7 @@ public class MovimentoPlayer : MonoBehaviour
 
         }
 
-        if (Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME)
-        {
-            Time.timeScale = 0f;
-            gm.changeState(GameManager.GameState.PAUSE);
-        }
+        
         
 
         if (is_inside == false) {

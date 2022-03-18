@@ -16,11 +16,14 @@ public class UI_Pause : MonoBehaviour
     public void Retornar()
     {
 
+        Time.timeScale = 1f;
         gm.changeState(GameManager.GameState.GAME);
+        
     }
 
     public void Inicio()
     {
+        Time.timeScale = 1f;
         gm.changeState(GameManager.GameState.MENU);
     }
 }
