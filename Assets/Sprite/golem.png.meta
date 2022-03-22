@@ -1,337 +1,280 @@
 fileFormatVersion: 2
-guid: 6504c50055986a443bb68cc4f7eaf161
+guid: d9384ec124ea9c34e922bc59cdc42b86
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5699634771250255968
-    second: gastly_8
+      213: 8821016199925446121
+    second: golem_0
   - first:
-      213: 6234668706801609203
-    second: gastly_9
+      213: 5558929116119530011
+    second: golem_1
   - first:
-      213: 8975299059317525505
-    second: gastly_10
+      213: -7938967849143907722
+    second: golem_2
   - first:
-      213: -6478386943591547025
-    second: gastly_0
+      213: -8120957673898658751
+    second: golem_3
   - first:
-      213: -4423430271227907047
-    second: gastly_1
+      213: 7675166993724320208
+    second: golem_4
   - first:
-      213: -854837227084959571
-    second: gastly_2
+      213: -5483003801511769695
+    second: golem_5
   - first:
-      213: 290978220485929910
-    second: gastly_3
+      213: -6367020657441983637
+    second: golem_6
   - first:
-      213: -8023977923459678149
-    second: gastly_4
+      213: 5011769397829845575
+    second: golem_7
   - first:
-      213: -2688024657722788369
-    second: gastly_5
+      213: 9023598398815006260
+    second: golem_8
   - first:
-      213: -3751201283973698749
-    second: gastly_6
+      213: -8950690858154096082
+    second: golem_9
   - first:
-      213: -8180048760996907163
-    second: gastly_7
+      213: 3034842355247029857
+    second: golem_10
   - first:
-      213: -4472339922366706384
-    second: gastly_11
+      213: -1203529981766872419
+    second: golem_11
   - first:
-      213: -5329415914722306410
-    second: gastly_12
+      213: 6313958136043311771
+    second: golem_12
   - first:
-      213: -5681291222618801608
-    second: gastly_13
+      213: 6225803207390036791
+    second: golem_13
   - first:
-      213: -4492188506867455701
-    second: gastly_14
+      213: -2235388607827041426
+    second: golem_14
   - first:
-      213: -2627424644630093179
-    second: gastly_15
+      213: -3145354403953770894
+    second: golem_15
   - first:
-      213: -6701098710364664862
-    second: gastly_16
+      213: 521003051100060685
+    second: golem_16
   - first:
-      213: 9125565790383904122
-    second: gastly_17
+      213: 3113114727066961396
+    second: golem_17
   - first:
-      213: 9183841928684807616
-    second: gastly_18
+      213: 7604863118969471786
+    second: golem_18
   - first:
-      213: -5872028047029641440
-    second: gastly_19
+      213: -3534367033610702545
+    second: golem_19
   - first:
-      213: 2837011426404176315
-    second: gastly_20
+      213: -5160245543302612603
+    second: golem_20
   - first:
-      213: -1528330140190060110
-    second: gastly_21
+      213: -5861471987511590618
+    second: golem_21
   - first:
-      213: 821511897122127276
-    second: gastly_22
+      213: -721304746231137748
+    second: golem_22
   - first:
-      213: 2208665185872244676
-    second: gastly_23
+      213: 7548818818707088386
+    second: golem_23
   - first:
-      213: 7214136004006902338
-    second: gastly_24
+      213: 8631104016134437003
+    second: golem_24
   - first:
-      213: -2447242876472118603
-    second: gastly_25
+      213: 6609954123698284557
+    second: golem_25
   - first:
-      213: -3194232784342775253
-    second: gastly_26
+      213: -5038708158555504480
+    second: golem_26
   - first:
-      213: -7203208804484327264
-    second: gastly_27
+      213: -7113896494815730768
+    second: golem_27
   - first:
-      213: -2357285213120618932
-    second: gastly_28
+      213: -6235800502268156185
+    second: golem_28
   - first:
-      213: -5351271575425366113
-    second: gastly_29
+      213: 2513050357525502318
+    second: golem_29
   - first:
-      213: -7111900641642639738
-    second: gastly_30
+      213: -8543700560818115772
+    second: golem_30
   - first:
-      213: -3120445867615671481
-    second: gastly_31
+      213: 3428748211973942807
+    second: golem_31
   - first:
-      213: -7025921032961955536
-    second: gastly_32
+      213: -7234578958157868995
+    second: golem_32
   - first:
-      213: -4310992923355532658
-    second: gastly_33
+      213: 1870775735640662528
+    second: golem_33
   - first:
-      213: -6048818528760118969
-    second: gastly_34
+      213: -664151860973811989
+    second: golem_34
   - first:
-      213: -8015419859130029868
-    second: gastly_35
+      213: 4327428334545489746
+    second: golem_35
   - first:
-      213: -2151792605692451671
-    second: gastly_36
+      213: -3347080627477583413
+    second: golem_36
   - first:
-      213: -7832650993700884925
-    second: gastly_37
+      213: 7484745446558080647
+    second: golem_37
   - first:
-      213: -1886138732471044646
-    second: gastly_38
+      213: -2073216301444227534
+    second: golem_38
   - first:
-      213: 8500337650416304411
-    second: gastly_39
+      213: -8438842944996652797
+    second: golem_39
   - first:
-      213: 7382329733913408640
-    second: gastly_40
+      213: 8319249177444988462
+    second: golem_40
   - first:
-      213: -5425653889016606225
-    second: gastly_41
+      213: -2843470272321533063
+    second: golem_41
   - first:
-      213: -2992724196687003015
-    second: gastly_42
+      213: -1948750065915920615
+    second: golem_42
   - first:
-      213: -1847310402018824670
-    second: gastly_43
+      213: 6345092263459917116
+    second: golem_43
   - first:
-      213: 1394507932484272030
-    second: gastly_44
+      213: -875218432604687083
+    second: golem_44
   - first:
-      213: 671253118506526204
-    second: gastly_45
+      213: 5885815611103965803
+    second: golem_45
   - first:
-      213: -8119313081308735322
-    second: gastly_46
+      213: -6753331664898534151
+    second: golem_46
   - first:
-      213: 5073082912601694792
-    second: gastly_47
+      213: -2611857884280524243
+    second: golem_47
   - first:
-      213: -5531985766690572191
-    second: gastly_48
+      213: -8340929733414827560
+    second: golem_48
   - first:
-      213: 7393704073001765258
-    second: gastly_49
+      213: -8233706668347519880
+    second: golem_49
   - first:
-      213: -2655903101727618136
-    second: gastly_50
+      213: 2974595645526848605
+    second: golem_50
   - first:
-      213: 5591772386332386239
-    second: gastly_51
+      213: -590860379608415431
+    second: golem_51
   - first:
-      213: 3666635118578899551
-    second: gastly_52
+      213: 5412245213239968695
+    second: golem_52
   - first:
-      213: -7113594795976461903
-    second: gastly_53
+      213: 6076063260214790163
+    second: golem_53
   - first:
-      213: 5354748716918044572
-    second: gastly_54
+      213: -2726766249972424852
+    second: golem_54
   - first:
-      213: 5626335887224061009
-    second: gastly_55
+      213: 3369005626164100505
+    second: golem_55
   - first:
-      213: -4207823405292071715
-    second: gastly_56
+      213: -6320611221300210453
+    second: golem_56
   - first:
-      213: 2055820642823091223
-    second: gastly_57
+      213: 3176061409030835876
+    second: golem_57
   - first:
-      213: 3637011557589169849
-    second: gastly_58
+      213: 1294710066640681633
+    second: golem_58
   - first:
-      213: 2495683876055509971
-    second: gastly_59
+      213: -6080512978778207289
+    second: golem_59
   - first:
-      213: 6562684776438206745
-    second: gastly_60
+      213: 7637558237612420368
+    second: golem_60
   - first:
-      213: -4770745220240361604
-    second: gastly_61
+      213: 978821743308085674
+    second: golem_61
   - first:
-      213: 1584072598709234685
-    second: gastly_62
+      213: 7152251991476534260
+    second: golem_62
   - first:
-      213: 8095852115202234184
-    second: gastly_63
+      213: 4377400105795208818
+    second: golem_63
   - first:
-      213: -4846749421800578045
-    second: gastly_64
+      213: 4817593644430843125
+    second: golem_64
   - first:
-      213: -1083878402722472382
-    second: gastly_65
+      213: 7593396843503261610
+    second: golem_65
   - first:
-      213: 9183402048883139541
-    second: gastly_66
+      213: 3841770325952418966
+    second: golem_66
   - first:
-      213: 785809507077684502
-    second: gastly_67
+      213: -5453404536991271512
+    second: golem_67
   - first:
-      213: 2826336786606421062
-    second: gastly_68
+      213: 7217431875383525262
+    second: golem_68
   - first:
-      213: 3879369646345664781
-    second: gastly_69
+      213: -9101853284756094928
+    second: golem_69
   - first:
-      213: 8853155869094979865
-    second: gastly_70
+      213: -7852328639531028924
+    second: golem_70
   - first:
-      213: 6645554980630267454
-    second: gastly_71
+      213: 3194875678063711892
+    second: golem_71
   - first:
-      213: 2000915445421066053
-    second: gastly_72
+      213: 1286106981588646071
+    second: golem_72
   - first:
-      213: -6422974725607643992
-    second: gastly_73
+      213: 4829371241106113994
+    second: golem_73
   - first:
-      213: 4884723593721555716
-    second: gastly_74
+      213: 1405738476792888781
+    second: golem_74
   - first:
-      213: 2967749934540287563
-    second: gastly_75
+      213: -4553797552029632637
+    second: golem_75
   - first:
-      213: -6905940180578077085
-    second: gastly_76
+      213: -8829609774108845238
+    second: golem_76
   - first:
-      213: -8687179173145798587
-    second: gastly_77
+      213: 8262157987613557308
+    second: golem_77
   - first:
-      213: 6107863983334830266
-    second: gastly_78
+      213: 2292033738505177701
+    second: golem_78
   - first:
-      213: 8072897888037427508
-    second: gastly_79
+      213: 2796850292001449862
+    second: golem_79
   - first:
-      213: -8220687465298467364
-    second: gastly_80
+      213: 8147273569962020811
+    second: golem_80
   - first:
-      213: -3553964723127741985
-    second: gastly_81
+      213: -4065593043127107893
+    second: golem_81
   - first:
-      213: 7972705733359269242
-    second: gastly_82
+      213: -1508549624251261812
+    second: golem_82
   - first:
-      213: -1102061698142575114
-    second: gastly_83
+      213: 191699078630412228
+    second: golem_83
   - first:
-      213: -9007964645147548458
-    second: gastly_84
+      213: 6130875858810463513
+    second: golem_84
   - first:
-      213: -5656563417063697903
-    second: gastly_85
+      213: -6162661401927195708
+    second: golem_85
   - first:
-      213: -6945770781724094786
-    second: gastly_86
+      213: -7220955570515207
+    second: golem_86
   - first:
-      213: -3059300953027918782
-    second: gastly_87
+      213: 4177648046901842415
+    second: golem_87
   - first:
-      213: -6109677456439428789
-    second: gastly_88
+      213: 1557784774175068723
+    second: golem_88
   - first:
-      213: 1067645860489338001
-    second: gastly_89
+      213: -2915610702360427621
+    second: golem_89
   - first:
-      213: 7442701821653727903
-    second: gastly_90
-  - first:
-      213: 3091034305219694761
-    second: gastly_91
-  - first:
-      213: -4782510615012114220
-    second: gastly_92
-  - first:
-      213: 4978909815669869831
-    second: gastly_93
-  - first:
-      213: 4103673787989052065
-    second: gastly_94
-  - first:
-      213: 2600143979518169832
-    second: gastly_95
-  - first:
-      213: 5449946348611398606
-    second: gastly_96
-  - first:
-      213: -2861220548201250171
-    second: gastly_97
-  - first:
-      213: 2085123780140001193
-    second: gastly_98
-  - first:
-      213: 9195445862698362162
-    second: gastly_99
-  - first:
-      213: 3756811273760249396
-    second: gastly_100
-  - first:
-      213: -5126701134728354859
-    second: gastly_101
-  - first:
-      213: 2159588032708534351
-    second: gastly_102
-  - first:
-      213: 6009344769575166521
-    second: gastly_103
-  - first:
-      213: 5178282071206174886
-    second: gastly_104
-  - first:
-      213: -5704312370667252158
-    second: gastly_105
-  - first:
-      213: 762737544933056617
-    second: gastly_106
-  - first:
-      213: -3756174058945228516
-    second: gastly_107
-  - first:
-      213: -7923242234716617210
-    second: gastly_108
-  - first:
-      213: 4598435875237694597
-    second: gastly_109
+      213: 6810979288008013055
+    second: golem_90
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -433,13 +376,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gastly_0
+      name: golem_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 675
-        width: 67
-        height: 75
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,20 +390,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6f72b516652816a0800000000000000
-      internalID: -6478386943591547025
+      spriteID: 9e5b5828f7b8a6a70800000000000000
+      internalID: 8821016199925446121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_1
+      name: golem_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 675
-        width: 67
-        height: 75
+        x: 72
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,20 +411,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91430caca91dc92c0800000000000000
-      internalID: -4423430271227907047
+      spriteID: b1a71e12498452d40800000000000000
+      internalID: 5558929116119530011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_2
+      name: golem_2
       rect:
         serializedVersion: 2
-        x: 134
-        y: 675
-        width: 67
-        height: 75
+        x: 144
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,20 +432,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da032d232120324f0800000000000000
-      internalID: -854837227084959571
+      spriteID: 67ac78cbdce13d190800000000000000
+      internalID: -7938967849143907722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_3
+      name: golem_3
       rect:
         serializedVersion: 2
-        x: 201
-        y: 675
-        width: 67
-        height: 75
+        x: 216
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,20 +453,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bb607d5623c90400800000000000000
-      internalID: 290978220485929910
+      spriteID: 144b943b5009c4f80800000000000000
+      internalID: -8120957673898658751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_4
+      name: golem_4
       rect:
         serializedVersion: 2
-        x: 268
-        y: 675
-        width: 67
-        height: 75
+        x: 288
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,20 +474,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b300c9a679a15a090800000000000000
-      internalID: -8023977923459678149
+      spriteID: 0d9adbc47bba38a60800000000000000
+      internalID: 7675166993724320208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_5
+      name: golem_5
       rect:
         serializedVersion: 2
-        x: 335
-        y: 675
-        width: 67
-        height: 75
+        x: 360
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +495,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe531f8c0d732bad0800000000000000
-      internalID: -2688024657722788369
+      spriteID: 1a946ccb71578e3b0800000000000000
+      internalID: -5483003801511769695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_6
+      name: golem_6
       rect:
         serializedVersion: 2
-        x: 402
-        y: 675
-        width: 67
-        height: 75
+        x: 432
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +516,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34b22c39e4e01fbc0800000000000000
-      internalID: -3751201283973698749
+      spriteID: b63b89b227cc3a7a0800000000000000
+      internalID: -6367020657441983637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_7
+      name: golem_7
       rect:
         serializedVersion: 2
-        x: 469
-        y: 675
-        width: 67
-        height: 75
+        x: 504
+        y: 627
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,83 +537,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 567b76bddf0aa7e80800000000000000
-      internalID: -8180048760996907163
+      spriteID: 74242ddb6b16d8540800000000000000
+      internalID: 5011769397829845575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_8
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 675
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06816d160ab291f40800000000000000
-      internalID: 5699634771250255968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_9
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 675
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f96729f72ef58650800000000000000
-      internalID: 6234668706801609203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_10
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 675
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10cc487f0faae8c70800000000000000
-      internalID: 8975299059317525505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_11
+      name: golem_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 600
-        width: 67
-        height: 75
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,20 +558,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03dc88c398e0fe1c0800000000000000
-      internalID: -4472339922366706384
+      spriteID: 43ee6254fe24a3d70800000000000000
+      internalID: 9023598398815006260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_12
+      name: golem_9
       rect:
         serializedVersion: 2
-        x: 67
-        y: 600
-        width: 67
-        height: 75
+        x: 72
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,20 +579,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 696d9a6467c1a06b0800000000000000
-      internalID: -5329415914722306410
+      spriteID: e2a83695612c8c380800000000000000
+      internalID: -8950690858154096082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_13
+      name: golem_10
       rect:
         serializedVersion: 2
-        x: 134
-        y: 600
-        width: 67
-        height: 75
+        x: 144
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,20 +600,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83af24adbbff721b0800000000000000
-      internalID: -5681291222618801608
+      spriteID: 16e1fc5fa0ded1a20800000000000000
+      internalID: 3034842355247029857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_14
+      name: golem_11
       rect:
         serializedVersion: 2
-        x: 201
-        y: 600
-        width: 67
-        height: 75
+        x: 216
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,20 +621,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b29a2188a5a88a1c0800000000000000
-      internalID: -4492188506867455701
+      spriteID: d92d040bbd33c4fe0800000000000000
+      internalID: -1203529981766872419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_15
+      name: golem_12
       rect:
         serializedVersion: 2
-        x: 268
-        y: 600
-        width: 67
-        height: 75
+        x: 288
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,20 +642,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58267b6d433898bd0800000000000000
-      internalID: -2627424644630093179
+      spriteID: b929c81d87faf9750800000000000000
+      internalID: 6313958136043311771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_16
+      name: golem_13
       rect:
         serializedVersion: 2
-        x: 335
-        y: 600
-        width: 67
-        height: 75
+        x: 360
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,20 +663,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ebc2e31a3ae003a0800000000000000
-      internalID: -6701098710364664862
+      spriteID: 73388f9080f766650800000000000000
+      internalID: 6225803207390036791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_17
+      name: golem_14
       rect:
         serializedVersion: 2
-        x: 402
-        y: 600
-        width: 67
-        height: 75
+        x: 432
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,20 +684,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a751a4eacb584ae70800000000000000
-      internalID: 9125565790383904122
+      spriteID: e63a38f97ed4af0e0800000000000000
+      internalID: -2235388607827041426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_18
+      name: golem_15
       rect:
         serializedVersion: 2
-        x: 469
-        y: 600
-        width: 67
-        height: 75
+        x: 504
+        y: 570
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,83 +705,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c5a898739f837f70800000000000000
-      internalID: 9183841928684807616
+      spriteID: 27eff9b95d47954d0800000000000000
+      internalID: -3145354403953770894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_19
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 600
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02fdaa14a9d528ea0800000000000000
-      internalID: -5872028047029641440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_20
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 600
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb19b867cd61f5720800000000000000
-      internalID: 2837011426404176315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_21
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 600
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b1d27eb5d74acae0800000000000000
-      internalID: -1528330140190060110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_22
+      name: golem_16
       rect:
         serializedVersion: 2
         x: 0
-        y: 525
-        width: 67
-        height: 75
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,20 +726,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cadb8b6c7b8966b00800000000000000
-      internalID: 821511897122127276
+      spriteID: d0cb6bbb389fa3700800000000000000
+      internalID: 521003051100060685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_23
+      name: golem_17
       rect:
         serializedVersion: 2
-        x: 67
-        y: 525
-        width: 67
-        height: 75
+        x: 72
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,20 +747,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cfefa7d841c6ae10800000000000000
-      internalID: 2208665185872244676
+      spriteID: 4f50ddba951043b20800000000000000
+      internalID: 3113114727066961396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_24
+      name: golem_18
       rect:
         serializedVersion: 2
-        x: 134
-        y: 525
-        width: 67
-        height: 75
+        x: 144
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,20 +768,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24aff283972cd1460800000000000000
-      internalID: 7214136004006902338
+      spriteID: a2305a3e6b6e98960800000000000000
+      internalID: 7604863118969471786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_25
+      name: golem_19
       rect:
         serializedVersion: 2
-        x: 201
-        y: 525
-        width: 67
-        height: 75
+        x: 216
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,20 +789,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b236c4e195a90ed0800000000000000
-      internalID: -2447242876472118603
+      spriteID: f2178c7a8e763fec0800000000000000
+      internalID: -3534367033610702545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_26
+      name: golem_20
       rect:
         serializedVersion: 2
-        x: 268
-        y: 525
-        width: 67
-        height: 75
+        x: 288
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,20 +810,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2a8757d43ecba3d0800000000000000
-      internalID: -3194232784342775253
+      spriteID: 589b7adb4002368b0800000000000000
+      internalID: -5160245543302612603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_27
+      name: golem_21
       rect:
         serializedVersion: 2
-        x: 335
-        y: 525
-        width: 67
-        height: 75
+        x: 360
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,20 +831,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a8debda1cf090c90800000000000000
-      internalID: -7203208804484327264
+      spriteID: 6210873684ed7aea0800000000000000
+      internalID: -5861471987511590618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_28
+      name: golem_22
       rect:
         serializedVersion: 2
-        x: 402
-        y: 525
-        width: 67
-        height: 75
+        x: 432
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,20 +852,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4e1aad869d394fd0800000000000000
-      internalID: -2357285213120618932
+      spriteID: c2af61aa7296df5f0800000000000000
+      internalID: -721304746231137748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_29
+      name: golem_23
       rect:
         serializedVersion: 2
-        x: 469
-        y: 525
-        width: 67
-        height: 75
+        x: 504
+        y: 513
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,83 +873,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f97402abad67cb5b0800000000000000
-      internalID: -5351271575425366113
+      spriteID: 204e1d268bac2c860800000000000000
+      internalID: 7548818818707088386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_30
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 525
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68e84010c047d4d90800000000000000
-      internalID: -7111900641642639738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_31
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 525
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74baee72403f1b4d0800000000000000
-      internalID: -3120445867615671481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_32
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 525
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0396b52ab0aee7e90800000000000000
-      internalID: -7025921032961955536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_33
+      name: golem_24
       rect:
         serializedVersion: 2
         x: 0
-        y: 450
-        width: 67
-        height: 75
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,20 +894,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e82bb2ed6c64c24c0800000000000000
-      internalID: -4310992923355532658
+      spriteID: b88f3258f57d7c770800000000000000
+      internalID: 8631104016134437003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_34
+      name: golem_25
       rect:
         serializedVersion: 2
-        x: 67
-        y: 450
-        width: 67
-        height: 75
+        x: 72
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,20 +915,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 741c37a98974e0ca0800000000000000
-      internalID: -6048818528760118969
+      spriteID: d082aa421464bbb50800000000000000
+      internalID: 6609954123698284557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_35
+      name: golem_26
       rect:
         serializedVersion: 2
-        x: 134
-        y: 450
-        width: 67
-        height: 75
+        x: 144
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,20 +936,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d861fa0b1283c090800000000000000
-      internalID: -8015419859130029868
+      spriteID: 0a0cf6240a9e21ab0800000000000000
+      internalID: -5038708158555504480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_36
+      name: golem_27
       rect:
         serializedVersion: 2
-        x: 201
-        y: 450
-        width: 67
-        height: 75
+        x: 216
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,20 +957,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a4a36b960c4322e0800000000000000
-      internalID: -2151792605692451671
+      spriteID: 0b3ac9934dc564d90800000000000000
+      internalID: -7113896494815730768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_37
+      name: golem_28
       rect:
         serializedVersion: 2
-        x: 268
-        y: 450
-        width: 67
-        height: 75
+        x: 288
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,20 +978,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34e29de9b65dc4390800000000000000
-      internalID: -7832650993700884925
+      spriteID: 7e6aa1c5b7cf579a0800000000000000
+      internalID: -6235800502268156185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_38
+      name: golem_29
       rect:
         serializedVersion: 2
-        x: 335
-        y: 450
-        width: 67
-        height: 75
+        x: 360
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1245,20 +999,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad535f5e0d613d5e0800000000000000
-      internalID: -1886138732471044646
+      spriteID: e69d9f64cf520e220800000000000000
+      internalID: 2513050357525502318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_39
+      name: golem_30
       rect:
         serializedVersion: 2
-        x: 402
-        y: 450
-        width: 67
-        height: 75
+        x: 432
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,20 +1020,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1141fb6e0447f570800000000000000
-      internalID: 8500337650416304411
+      spriteID: 44b612d3b9dae6980800000000000000
+      internalID: -8543700560818115772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_40
+      name: golem_31
       rect:
         serializedVersion: 2
-        x: 469
-        y: 450
-        width: 67
-        height: 75
+        x: 504
+        y: 456
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,83 +1041,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08476bc97cd437660800000000000000
-      internalID: 7382329733913408640
+      spriteID: 71e66fe155c559f20800000000000000
+      internalID: 3428748211973942807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_41
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 450
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe1d2f6c88434b4b0800000000000000
-      internalID: -5425653889016606225
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_42
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 450
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97241c10335b776d0800000000000000
-      internalID: -2992724196687003015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_43
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 450
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22ea8c11af80d56e0800000000000000
-      internalID: -1847310402018824670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_44
+      name: golem_32
       rect:
         serializedVersion: 2
         x: 0
-        y: 375
-        width: 67
-        height: 75
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,20 +1062,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9f703083994a5310800000000000000
-      internalID: 1394507932484272030
+      spriteID: d301c7b94cc999b90800000000000000
+      internalID: -7234578958157868995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_45
+      name: golem_33
       rect:
         serializedVersion: 2
-        x: 67
-        y: 375
-        width: 67
-        height: 75
+        x: 72
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,20 +1083,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf564f2a725c05900800000000000000
-      internalID: 671253118506526204
+      spriteID: 0022849ae9456f910800000000000000
+      internalID: 1870775735640662528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_46
+      name: golem_34
       rect:
         serializedVersion: 2
-        x: 134
-        y: 375
-        width: 67
-        height: 75
+        x: 144
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,20 +1104,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a8196045c7625f80800000000000000
-      internalID: -8119313081308735322
+      spriteID: be6cdb9b66578c6f0800000000000000
+      internalID: -664151860973811989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_47
+      name: golem_35
       rect:
         serializedVersion: 2
-        x: 201
-        y: 375
-        width: 67
-        height: 75
+        x: 216
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,20 +1125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8426ab9d706376640800000000000000
-      internalID: 5073082912601694792
+      spriteID: 25f4b8f742d1e0c30800000000000000
+      internalID: 4327428334545489746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_48
+      name: golem_36
       rect:
         serializedVersion: 2
-        x: 268
-        y: 375
-        width: 67
-        height: 75
+        x: 288
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1455,20 +1146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16834e141407a33b0800000000000000
-      internalID: -5531985766690572191
+      spriteID: bc96b9427e7cc81d0800000000000000
+      internalID: -3347080627477583413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_49
+      name: golem_37
       rect:
         serializedVersion: 2
-        x: 335
-        y: 375
-        width: 67
-        height: 75
+        x: 360
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1476,20 +1167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8901ad4ea6bb9660800000000000000
-      internalID: 7393704073001765258
+      spriteID: 78e1158e3582fd760800000000000000
+      internalID: 7484745446558080647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_50
+      name: golem_38
       rect:
         serializedVersion: 2
-        x: 402
-        y: 375
-        width: 67
-        height: 75
+        x: 432
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1497,20 +1188,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8abcaa75336542bd0800000000000000
-      internalID: -2655903101727618136
+      spriteID: 23e1ed912c47a33e0800000000000000
+      internalID: -2073216301444227534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_51
+      name: golem_39
       rect:
         serializedVersion: 2
-        x: 469
-        y: 375
-        width: 67
-        height: 75
+        x: 504
+        y: 399
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,83 +1209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb32e20eb57f99d40800000000000000
-      internalID: 5591772386332386239
+      spriteID: 309c92c6d0533ea80800000000000000
+      internalID: -8438842944996652797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_52
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 375
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5a1ed3b63182e230800000000000000
-      internalID: 3666635118578899551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_53
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 375
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b171c5f83f674d90800000000000000
-      internalID: -7113594795976461903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_54
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 375
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c97f06d5693ef4a40800000000000000
-      internalID: 5354748716918044572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_55
+      name: golem_40
       rect:
         serializedVersion: 2
         x: 0
-        y: 300
-        width: 67
-        height: 75
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1602,20 +1230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15cb5090ea2c41e40800000000000000
-      internalID: 5626335887224061009
+      spriteID: e26b193bc09e37370800000000000000
+      internalID: 8319249177444988462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_56
+      name: golem_41
       rect:
         serializedVersion: 2
-        x: 67
-        y: 300
-        width: 67
-        height: 75
+        x: 72
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,20 +1251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd4ddf928eeca95c0800000000000000
-      internalID: -4207823405292071715
+      spriteID: 97b44e84ad6f988d0800000000000000
+      internalID: -2843470272321533063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_57
+      name: golem_42
       rect:
         serializedVersion: 2
-        x: 134
-        y: 300
-        width: 67
-        height: 75
+        x: 144
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1644,20 +1272,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 714b2618bfdb78c10800000000000000
-      internalID: 2055820642823091223
+      spriteID: 91fff05d326a4f4e0800000000000000
+      internalID: -1948750065915920615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_58
+      name: golem_43
       rect:
         serializedVersion: 2
-        x: 201
-        y: 300
-        width: 67
-        height: 75
+        x: 216
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1665,20 +1293,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b6b71eedb2497230800000000000000
-      internalID: 3637011557589169849
+      spriteID: c3d8b9ebbcb4e0850800000000000000
+      internalID: 6345092263459917116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_59
+      name: golem_44
       rect:
         serializedVersion: 2
-        x: 268
-        y: 300
-        width: 67
-        height: 75
+        x: 288
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,20 +1314,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3db65f7334372a220800000000000000
-      internalID: 2495683876055509971
+      spriteID: 51539bff8799ad3f0800000000000000
+      internalID: -875218432604687083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_60
+      name: golem_45
       rect:
         serializedVersion: 2
-        x: 335
-        y: 300
-        width: 67
-        height: 75
+        x: 360
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1707,20 +1335,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91196789807531b50800000000000000
-      internalID: 6562684776438206745
+      spriteID: b62fc492d1e9ea150800000000000000
+      internalID: 5885815611103965803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_61
+      name: golem_46
       rect:
         serializedVersion: 2
-        x: 402
-        y: 300
-        width: 67
-        height: 75
+        x: 432
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,20 +1356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c773ea9af78eacdb0800000000000000
-      internalID: -4770745220240361604
+      spriteID: 9f45357a1a85742a0800000000000000
+      internalID: -6753331664898534151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_62
+      name: golem_47
       rect:
         serializedVersion: 2
-        x: 469
-        y: 300
-        width: 67
-        height: 75
+        x: 504
+        y: 342
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,83 +1377,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfb6e70c2a1cbf510800000000000000
-      internalID: 1584072598709234685
+      spriteID: d22f7aba711d0cbd0800000000000000
+      internalID: -2611857884280524243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_63
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 300
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84759b8ea9e3a5070800000000000000
-      internalID: 8095852115202234184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_64
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 300
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3042f3e7413ecbcb0800000000000000
-      internalID: -4846749421800578045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_65
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 300
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24e520ad55a45f0f0800000000000000
-      internalID: -1083878402722472382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_66
+      name: golem_48
       rect:
         serializedVersion: 2
         x: 0
-        y: 225
-        width: 67
-        height: 75
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1833,20 +1398,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d32649f18ff17f70800000000000000
-      internalID: 9183402048883139541
+      spriteID: 8d9c05f79901f3c80800000000000000
+      internalID: -8340929733414827560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_67
+      name: golem_49
       rect:
         serializedVersion: 2
-        x: 67
-        y: 225
-        width: 67
-        height: 75
+        x: 72
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1854,20 +1419,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61d7d725591c7ea00800000000000000
-      internalID: 785809507077684502
+      spriteID: 87c8160c86ffbbd80800000000000000
+      internalID: -8233706668347519880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_68
+      name: golem_50
       rect:
         serializedVersion: 2
-        x: 134
-        y: 225
-        width: 67
-        height: 75
+        x: 144
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1875,20 +1440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6447b45355a293720800000000000000
-      internalID: 2826336786606421062
+      spriteID: d543d02caf2e74920800000000000000
+      internalID: 2974595645526848605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_69
+      name: golem_51
       rect:
         serializedVersion: 2
-        x: 201
-        y: 225
-        width: 67
-        height: 75
+        x: 216
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,20 +1461,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d09bddab32a46d530800000000000000
-      internalID: 3879369646345664781
+      spriteID: 93386918d97dcc7f0800000000000000
+      internalID: -590860379608415431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_70
+      name: golem_52
       rect:
         serializedVersion: 2
-        x: 268
-        y: 225
-        width: 67
-        height: 75
+        x: 288
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1917,20 +1482,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 919229e5b5abcda70800000000000000
-      internalID: 8853155869094979865
+      spriteID: 7b30a7c98582c1b40800000000000000
+      internalID: 5412245213239968695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_71
+      name: golem_53
       rect:
         serializedVersion: 2
-        x: 335
-        y: 225
-        width: 67
-        height: 75
+        x: 360
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1938,20 +1503,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e368bc39b01c93c50800000000000000
-      internalID: 6645554980630267454
+      spriteID: 31887e1c753825450800000000000000
+      internalID: 6076063260214790163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_72
+      name: golem_54
       rect:
         serializedVersion: 2
-        x: 402
-        y: 225
-        width: 67
-        height: 75
+        x: 432
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,20 +1524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5474aed0ffda4cb10800000000000000
-      internalID: 2000915445421066053
+      spriteID: c6f9edcea84982ad0800000000000000
+      internalID: -2726766249972424852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_73
+      name: golem_55
       rect:
         serializedVersion: 2
-        x: 469
-        y: 225
-        width: 67
-        height: 75
+        x: 504
+        y: 285
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,83 +1545,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a428d674820dd6a0800000000000000
-      internalID: -6422974725607643992
+      spriteID: 99dbdc964cc11ce20800000000000000
+      internalID: 3369005626164100505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_74
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 225
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40b2eb56a360ac340800000000000000
-      internalID: 4884723593721555716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_75
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 225
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4e667677d09f2920800000000000000
-      internalID: 2967749934540287563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_76
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 225
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 366fb88befb2920a0800000000000000
-      internalID: -6905940180578077085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_77
+      name: golem_56
       rect:
         serializedVersion: 2
         x: 0
-        y: 150
-        width: 67
-        height: 75
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2064,20 +1566,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54819749190f07780800000000000000
-      internalID: -8687179173145798587
+      spriteID: be49d0f059da848a0800000000000000
+      internalID: -6320611221300210453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_78
+      name: golem_57
       rect:
         serializedVersion: 2
-        x: 67
-        y: 150
-        width: 67
-        height: 75
+        x: 72
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2085,20 +1587,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab033179eed73c450800000000000000
-      internalID: 6107863983334830266
+      spriteID: 4ae0c162603a31c20800000000000000
+      internalID: 3176061409030835876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_79
+      name: golem_58
       rect:
         serializedVersion: 2
-        x: 134
-        y: 150
-        width: 67
-        height: 75
+        x: 144
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2106,20 +1608,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 439d87c6bd1b80070800000000000000
-      internalID: 8072897888037427508
+      spriteID: 1aa7d3922fbb7f110800000000000000
+      internalID: 1294710066640681633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_80
+      name: golem_59
       rect:
         serializedVersion: 2
-        x: 201
-        y: 150
-        width: 67
-        height: 75
+        x: 216
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2127,20 +1629,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd5e06d2e404aed80800000000000000
-      internalID: -8220687465298467364
+      spriteID: 7cbc5c769adad9ba0800000000000000
+      internalID: -6080512978778207289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_81
+      name: golem_60
       rect:
         serializedVersion: 2
-        x: 268
-        y: 150
-        width: 67
-        height: 75
+        x: 288
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,20 +1650,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd193bdf9e7cdaec0800000000000000
-      internalID: -3553964723127741985
+      spriteID: 01d2f3860ce0ef960800000000000000
+      internalID: 7637558237612420368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_82
+      name: golem_61
       rect:
         serializedVersion: 2
-        x: 335
-        y: 150
-        width: 67
-        height: 75
+        x: 360
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2169,20 +1671,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a75799f8f9db4ae60800000000000000
-      internalID: 7972705733359269242
+      spriteID: aa99e448039759d00800000000000000
+      internalID: 978821743308085674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_83
+      name: golem_62
       rect:
         serializedVersion: 2
-        x: 402
-        y: 150
-        width: 67
-        height: 75
+        x: 432
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2190,20 +1692,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f5e5a979b0b4b0f0800000000000000
-      internalID: -1102061698142575114
+      spriteID: 4fbf900ca47e14360800000000000000
+      internalID: 7152251991476534260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_84
+      name: golem_63
       rect:
         serializedVersion: 2
-        x: 469
-        y: 150
-        width: 67
-        height: 75
+        x: 504
+        y: 228
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2211,83 +1713,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d4e3b8a1e74df280800000000000000
-      internalID: -9007964645147548458
+      spriteID: 2764ea92436afbc30800000000000000
+      internalID: 4377400105795208818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_85
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 150
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 112d27cba89df71b0800000000000000
-      internalID: -5656563417063697903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_86
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 150
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ebe4c08364aab9f90800000000000000
-      internalID: -6945770781724094786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_87
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 150
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 244c1c9fdfd2b85d0800000000000000
-      internalID: -3059300953027918782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_88
+      name: golem_64
       rect:
         serializedVersion: 2
         x: 0
-        y: 75
-        width: 67
-        height: 75
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2295,20 +1734,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4937bc49b0163ba0800000000000000
-      internalID: -6109677456439428789
+      spriteID: 5fcda7815e78bd240800000000000000
+      internalID: 4817593644430843125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_89
+      name: golem_65
       rect:
         serializedVersion: 2
-        x: 67
-        y: 75
-        width: 67
-        height: 75
+        x: 72
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2316,20 +1755,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19c1264e04a01de00800000000000000
-      internalID: 1067645860489338001
+      spriteID: aa79597923a216960800000000000000
+      internalID: 7593396843503261610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_90
+      name: golem_66
       rect:
         serializedVersion: 2
-        x: 134
-        y: 75
-        width: 67
-        height: 75
+        x: 144
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2337,20 +1776,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9ab2d8afd9c94760800000000000000
-      internalID: 7442701821653727903
+      spriteID: 694d703c1c5b05530800000000000000
+      internalID: 3841770325952418966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_91
+      name: golem_67
       rect:
         serializedVersion: 2
-        x: 201
-        y: 75
-        width: 67
-        height: 75
+        x: 216
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2358,20 +1797,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a09a27d25f85ea20800000000000000
-      internalID: 3091034305219694761
+      spriteID: 8a5b12c877d9154b0800000000000000
+      internalID: -5453404536991271512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_92
+      name: golem_68
       rect:
         serializedVersion: 2
-        x: 268
-        y: 75
-        width: 67
-        height: 75
+        x: 288
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2379,20 +1818,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d00ba93feb11adb0800000000000000
-      internalID: -4782510615012114220
+      spriteID: e8ff0d21d08792460800000000000000
+      internalID: 7217431875383525262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_93
+      name: golem_69
       rect:
         serializedVersion: 2
-        x: 335
-        y: 75
-        width: 67
-        height: 75
+        x: 360
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2400,20 +1839,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70d45b31914a81540800000000000000
-      internalID: 4978909815669869831
+      spriteID: 030046449a8bfa180800000000000000
+      internalID: -9101853284756094928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_94
+      name: golem_70
       rect:
         serializedVersion: 2
-        x: 402
-        y: 75
-        width: 67
-        height: 75
+        x: 432
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2421,20 +1860,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1aa4b27619d23f830800000000000000
-      internalID: 4103673787989052065
+      spriteID: 44e602da4bce60390800000000000000
+      internalID: -7852328639531028924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_95
+      name: golem_71
       rect:
         serializedVersion: 2
-        x: 469
-        y: 75
-        width: 67
-        height: 75
+        x: 504
+        y: 171
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2442,20 +1881,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e21d085c21951420800000000000000
-      internalID: 2600143979518169832
+      spriteID: 496d584808a765c20800000000000000
+      internalID: 3194875678063711892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_96
+      name: golem_72
       rect:
         serializedVersion: 2
-        x: 536
-        y: 75
-        width: 67
-        height: 75
+        x: 0
+        y: 114
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2463,20 +1902,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecb6be9345912ab40800000000000000
-      internalID: 5449946348611398606
+      spriteID: 7b8bdb45c7b29d110800000000000000
+      internalID: 1286106981588646071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_97
+      name: golem_73
       rect:
         serializedVersion: 2
-        x: 603
-        y: 75
-        width: 67
-        height: 75
+        x: 72
+        y: 114
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2484,20 +1923,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5828a602217ea48d0800000000000000
-      internalID: -2861220548201250171
+      spriteID: ac50e928e8f550340800000000000000
+      internalID: 4829371241106113994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_98
+      name: golem_74
       rect:
         serializedVersion: 2
-        x: 670
-        y: 75
-        width: 67
-        height: 75
+        x: 144
+        y: 114
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2505,20 +1944,293 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a7e6f3d709dfec10800000000000000
-      internalID: 2085123780140001193
+      spriteID: dcdb65c52bf228310800000000000000
+      internalID: 1405738476792888781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_99
+      name: golem_75
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fa34e049adc0c0800000000000000
+      internalID: -4553797552029632637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 114
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bdce411bce67580800000000000000
+      internalID: -8829609774108845238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 114
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32ccd93ae419a270800000000000000
+      internalID: 8262157987613557308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_78
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 114
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56acfcc9a80fecf10800000000000000
+      internalID: 2292033738505177701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 114
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a1b0b58860d620800000000000000
+      internalID: 2796850292001449862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc381552ee01170800000000000000
+      internalID: 8147273569962020811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcefb1feaac1497c0800000000000000
+      internalID: -4065593043127107893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c54700c1e801be0800000000000000
+      internalID: -1508549624251261812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf098ddb4d09a200800000000000000
+      internalID: 191699078630412228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9156a6e5c1f351550800000000000000
+      internalID: 6130875858810463513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_85
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36e1b2b14d97aa0800000000000000
+      internalID: -6162661401927195708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_86
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d744449856eff0800000000000000
+      internalID: -7220955570515207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_87
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 57
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe15038b3ccf9f930800000000000000
+      internalID: 4177648046901842415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_88
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 67
-        height: 75
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2526,20 +2238,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235a875ea49cc9f70800000000000000
-      internalID: 9195445862698362162
+      spriteID: 3329735affc5e9510800000000000000
+      internalID: 1557784774175068723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_100
+      name: golem_89
       rect:
         serializedVersion: 2
-        x: 67
+        x: 72
         y: 0
-        width: 67
-        height: 75
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2547,20 +2259,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43699a4f2ffd22430800000000000000
-      internalID: 3756811273760249396
+      spriteID: b93ca76838ba987d0800000000000000
+      internalID: -2915610702360427621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gastly_101
+      name: golem_90
       rect:
         serializedVersion: 2
-        x: 134
+        x: 144
         y: 0
-        width: 67
-        height: 75
+        width: 72
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2568,176 +2280,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d3aceafa7c4ad8b0800000000000000
-      internalID: -5126701134728354859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_102
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f40e6ceafd568fd10800000000000000
-      internalID: 2159588032708534351
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_103
-      rect:
-        serializedVersion: 2
-        x: 268
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9322163aa3b756350800000000000000
-      internalID: 6009344769575166521
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_104
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a0a409ab14fcd740800000000000000
-      internalID: 5178282071206174886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_105
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24613822f1636d0b0800000000000000
-      internalID: -5704312370667252158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_106
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 960a69681c9c59a00800000000000000
-      internalID: 762737544933056617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_107
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c11580e28936fdbc0800000000000000
-      internalID: -3756174058945228516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_108
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 606085aaa2dfa0290800000000000000
-      internalID: -7923242234716617210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gastly_109
-      rect:
-        serializedVersion: 2
-        x: 670
-        y: 0
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58c84f1a01de0df30800000000000000
-      internalID: 4598435875237694597
+      spriteID: ff4b24a8395758e50800000000000000
+      internalID: 6810979288008013055
       vertices: []
       indices: 
       edges: []

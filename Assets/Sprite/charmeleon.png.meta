@@ -1,0 +1,2256 @@
+fileFormatVersion: 2
+guid: 2ffce381027c591439d100c908d1180b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2374370134671090729
+    second: charmeleon_0
+  - first:
+      213: -1092221132354860673
+    second: charmeleon_1
+  - first:
+      213: 830457592211672244
+    second: charmeleon_2
+  - first:
+      213: -2084391263866067509
+    second: charmeleon_3
+  - first:
+      213: -1158161328693130279
+    second: charmeleon_4
+  - first:
+      213: 6393439905342132638
+    second: charmeleon_5
+  - first:
+      213: -7349771356027503262
+    second: charmeleon_6
+  - first:
+      213: -3311939966797347041
+    second: charmeleon_7
+  - first:
+      213: 143980136456593881
+    second: charmeleon_12
+  - first:
+      213: -7527955754220428955
+    second: charmeleon_13
+  - first:
+      213: -9140871361511120461
+    second: charmeleon_14
+  - first:
+      213: 7510209808835795516
+    second: charmeleon_15
+  - first:
+      213: 7568743110872279224
+    second: charmeleon_16
+  - first:
+      213: -8549130404926786407
+    second: charmeleon_17
+  - first:
+      213: -3429451230527140723
+    second: charmeleon_18
+  - first:
+      213: 6062910136919755422
+    second: charmeleon_19
+  - first:
+      213: -4625347618311004823
+    second: charmeleon_20
+  - first:
+      213: -2559959501824704576
+    second: charmeleon_21
+  - first:
+      213: 3268105280931631761
+    second: charmeleon_26
+  - first:
+      213: 8810512107393247994
+    second: charmeleon_27
+  - first:
+      213: 6039729170102081731
+    second: charmeleon_28
+  - first:
+      213: -1719945814161815743
+    second: charmeleon_29
+  - first:
+      213: -5557544664456905145
+    second: charmeleon_30
+  - first:
+      213: 7861443160808193141
+    second: charmeleon_31
+  - first:
+      213: -7979109980366798115
+    second: charmeleon_32
+  - first:
+      213: 1426941593756788076
+    second: charmeleon_33
+  - first:
+      213: -3085969759295615088
+    second: charmeleon_34
+  - first:
+      213: -6226700080979310035
+    second: charmeleon_35
+  - first:
+      213: -1818148215935747642
+    second: charmeleon_40
+  - first:
+      213: 5169020119195932309
+    second: charmeleon_41
+  - first:
+      213: -6013026118655002189
+    second: charmeleon_42
+  - first:
+      213: 1180988492845906490
+    second: charmeleon_43
+  - first:
+      213: -7948910159242942222
+    second: charmeleon_44
+  - first:
+      213: 1679671087290747247
+    second: charmeleon_45
+  - first:
+      213: 1197872514401178981
+    second: charmeleon_46
+  - first:
+      213: 1126861256943643906
+    second: charmeleon_47
+  - first:
+      213: 6840342235085617830
+    second: charmeleon_48
+  - first:
+      213: -3178613943204840691
+    second: charmeleon_49
+  - first:
+      213: -2769034590866993673
+    second: charmeleon_54
+  - first:
+      213: 2912622374571013243
+    second: charmeleon_55
+  - first:
+      213: -391229702042634217
+    second: charmeleon_56
+  - first:
+      213: 950627026650603418
+    second: charmeleon_57
+  - first:
+      213: 4672180232412807986
+    second: charmeleon_58
+  - first:
+      213: 5755943387174407062
+    second: charmeleon_59
+  - first:
+      213: 654519674059645072
+    second: charmeleon_60
+  - first:
+      213: 6888493656882350202
+    second: charmeleon_61
+  - first:
+      213: 8987933409825497313
+    second: charmeleon_62
+  - first:
+      213: 1954061215284179410
+    second: charmeleon_63
+  - first:
+      213: -5229923981772929668
+    second: charmeleon_65
+  - first:
+      213: 4746840570366433989
+    second: charmeleon_66
+  - first:
+      213: 6744508644976099686
+    second: charmeleon_67
+  - first:
+      213: 3054115036927130407
+    second: charmeleon_68
+  - first:
+      213: -1903018380397959074
+    second: charmeleon_69
+  - first:
+      213: -3328035681566521326
+    second: charmeleon_70
+  - first:
+      213: 3182134460933656840
+    second: charmeleon_71
+  - first:
+      213: -2858929891233700939
+    second: charmeleon_8
+  - first:
+      213: 8804251319853724498
+    second: charmeleon_9
+  - first:
+      213: -669642457137723448
+    second: charmeleon_10
+  - first:
+      213: 901161185369758100
+    second: charmeleon_11
+  - first:
+      213: -6662502059791074890
+    second: charmeleon_22
+  - first:
+      213: 8479493458323288299
+    second: charmeleon_23
+  - first:
+      213: -7256744487085063126
+    second: charmeleon_24
+  - first:
+      213: -797041005627207249
+    second: charmeleon_25
+  - first:
+      213: -1668378778689930268
+    second: charmeleon_36
+  - first:
+      213: 1929075789636140363
+    second: charmeleon_37
+  - first:
+      213: 8562204268840228679
+    second: charmeleon_38
+  - first:
+      213: -1235597469001116423
+    second: charmeleon_39
+  - first:
+      213: -2666048713169100073
+    second: charmeleon_50
+  - first:
+      213: 4020400765708653308
+    second: charmeleon_51
+  - first:
+      213: 5214671309049840805
+    second: charmeleon_52
+  - first:
+      213: -837865417572444985
+    second: charmeleon_53
+  - first:
+      213: 8847308876037856138
+    second: charmeleon_64
+  - first:
+      213: -3796322178255929912
+    second: charmeleon_72
+  - first:
+      213: -412973427519931758
+    second: charmeleon_73
+  - first:
+      213: 6801176900065263542
+    second: charmeleon_74
+  - first:
+      213: 8800309639763947946
+    second: charmeleon_75
+  - first:
+      213: -4639263361204463290
+    second: charmeleon_76
+  - first:
+      213: 8476660941933387757
+    second: charmeleon_77
+  - first:
+      213: -5139643172690493061
+    second: charmeleon_78
+  - first:
+      213: -5974712646213525875
+    second: charmeleon_79
+  - first:
+      213: 7136976005371945810
+    second: charmeleon_80
+  - first:
+      213: -5783774679444165907
+    second: charmeleon_81
+  - first:
+      213: 9086520088703397962
+    second: charmeleon_82
+  - first:
+      213: -7666914059392882088
+    second: charmeleon_83
+  - first:
+      213: 1783921943500724215
+    second: charmeleon_84
+  - first:
+      213: 5295502166922414403
+    second: charmeleon_85
+  - first:
+      213: 2342124821318485216
+    second: charmeleon_86
+  - first:
+      213: 8723293477250292447
+    second: charmeleon_87
+  - first:
+      213: 3473412291375065829
+    second: charmeleon_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charmeleon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db12a541fa8c0fd0800000000000000
+      internalID: -2374370134671090729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7940ddbaa6a7d0f0800000000000000
+      internalID: -1092221132354860673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8dc8b7c0668b00800000000000000
+      internalID: 830457592211672244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e5586031c213e0800000000000000
+      internalID: -2084391263866067509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc6a268626defe0800000000000000
+      internalID: -1158161328693130279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9199b258bf0ab850800000000000000
+      internalID: 6393439905342132638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db3a774ed500a90800000000000000
+      internalID: -7349771356027503262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 616
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1700a9c520a902d0800000000000000
+      internalID: -3311939966797347041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d12538db258ff100800000000000000
+      internalID: 143980136456593881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56165d85024578790800000000000000
+      internalID: -7527955754220428955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a6975de9152180800000000000000
+      internalID: -9140871361511120461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adf44c700a93860800000000000000
+      internalID: 7510209808835795516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b82ab722c3990960800000000000000
+      internalID: 7568743110872279224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f8d321336b5980800000000000000
+      internalID: -8549130404926786407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c47ed96442860d0800000000000000
+      internalID: -3429451230527140723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a873895a8c32450800000000000000
+      internalID: 6062910136919755422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d9fd7e8d67fcfb0800000000000000
+      internalID: -4625347618311004823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3a567562397cd0800000000000000
+      internalID: -2559959501824704576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19212861074aa5d20800000000000000
+      internalID: 3268105280931631761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afae372e41a354a70800000000000000
+      internalID: 8810512107393247994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8df7b2ead61d350800000000000000
+      internalID: 6039729170102081731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14707f905668128e0800000000000000
+      internalID: -1719945814161815743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebda3a292afd2b0800000000000000
+      internalID: -5557544664456905145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c75ed27e4791d60800000000000000
+      internalID: 7861443160808193141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2867c7fb1844190800000000000000
+      internalID: -7979109980366798115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656a1bb1d38dc310800000000000000
+      internalID: 1426941593756788076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f4695aade6c25d0800000000000000
+      internalID: -3085969759295615088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a055e44415699a0800000000000000
+      internalID: -6226700080979310035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b320a4d3a4c6e0800000000000000
+      internalID: -1818148215935747642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5965589696c0cb740800000000000000
+      internalID: 5169020119195932309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b93c6c7a907d8ca0800000000000000
+      internalID: -6013026118655002189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a77efe6c6b36010800000000000000
+      internalID: 1180988492845906490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a4d6435ccfa190800000000000000
+      internalID: -7948910159242942222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_45
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69857164f36f4710800000000000000
+      internalID: 1679671087290747247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565161b84b2bf9010800000000000000
+      internalID: 1197872514401178981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_47
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 336
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da643c75a63af00800000000000000
+      internalID: 1126861256943643906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa31686507cdee50800000000000000
+      internalID: 6840342235085617830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bfb2da57b43e3d0800000000000000
+      internalID: -3178613943204840691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_54
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd8a98e5b96299d0800000000000000
+      internalID: -2769034590866993673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_55
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f8213e96bb6820800000000000000
+      internalID: 2912622374571013243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ba28a8a2129af0800000000000000
+      internalID: -391229702042634217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f156d7e3e413d00800000000000000
+      internalID: 950627026650603418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_58
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334197ca2be6d040800000000000000
+      internalID: 4672180232412807986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0acba30831ef40800000000000000
+      internalID: 5755943387174407062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09064defc22551900800000000000000
+      internalID: 654519674059645072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780100fb78d89f50800000000000000
+      internalID: 6888493656882350202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_62
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a38de0dd8bbc70800000000000000
+      internalID: 8987933409825497313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_63
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 224
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b16e72583e1b10800000000000000
+      internalID: 1954061215284179410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75c02019d39b67b0800000000000000
+      internalID: -5229923981772929668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca9a12595a20e140800000000000000
+      internalID: 4746840570366433989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610a50f0ee499d50800000000000000
+      internalID: 6744508644976099686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_68
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b7837d175626a20800000000000000
+      internalID: 3054115036927130407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_69
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58275b9dde1795e0800000000000000
+      internalID: -1903018380397959074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_70
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21807682e2170d1d0800000000000000
+      internalID: -3328035681566521326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_71
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801da7bbe66392c20800000000000000
+      internalID: 3182134460933656840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e443496a0358d0800000000000000
+      internalID: -2858929891233700939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2533521bdebfe2a70800000000000000
+      internalID: 8804251319853724498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c749cfabb3f4b6f0800000000000000
+      internalID: -669642457137723448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 560
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4999553d251918c00800000000000000
+      internalID: 901161185369758100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b938d21da90a83a0800000000000000
+      internalID: -6662502059791074890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_23
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 504
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bb92cf563da570800000000000000
+      internalID: 8479493458323288299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24458d365dda4b90800000000000000
+      internalID: -7256744487085063126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 448
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19b24ad6750f4f0800000000000000
+      internalID: -797041005627207249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebf269175ab8d8e0800000000000000
+      internalID: -1668378778689930268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7112c53475ca10800000000000000
+      internalID: 1929075789636140363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471e820b6f03d670800000000000000
+      internalID: 8562204268840228679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 392
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f411def5a64adee0800000000000000
+      internalID: -1235597469001116423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d22ba912da400bd0800000000000000
+      internalID: -2666048713169100073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d5c602355bc730800000000000000
+      internalID: 4020400765708653308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a446545deb3e5840800000000000000
+      internalID: 5214671309049840805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_53
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 280
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4920887dd4f54f0800000000000000
+      internalID: -837865417572444985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b95663c84f7ca70800000000000000
+      internalID: 8847308876037856138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd3e18b711c05bc0800000000000000
+      internalID: -3796322178255929912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abffe0bd2d44af0800000000000000
+      internalID: -412973427519931758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_74
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf7bfe3b52a26e50800000000000000
+      internalID: 6801176900065263542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17397cdfaf02a70800000000000000
+      internalID: 8800309639763947946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6495ce78d860e9fb0800000000000000
+      internalID: -4639263361204463290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_77
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1e55273623a570800000000000000
+      internalID: 8476660941933387757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b718583f3c15ca8b0800000000000000
+      internalID: -5139643172690493061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_79
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 112
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e986fe08e851da0800000000000000
+      internalID: -5974712646213525875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2536ea21dd1ab0360800000000000000
+      internalID: 7136976005371945810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deae4d2a297ebbfa0800000000000000
+      internalID: -5783774679444165907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40fd93d0edc91e70800000000000000
+      internalID: 9086520088703397962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a6076b846a99590800000000000000
+      internalID: -7666914059392882088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_84
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f792655e83c1c810800000000000000
+      internalID: 1783921943500724215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_85
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c8bef9276d7940800000000000000
+      internalID: 5295502166922414403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4405aad16e08020800000000000000
+      internalID: 2342124821318485216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 56
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda5cf6133d5f0970800000000000000
+      internalID: 8723293477250292447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charmeleon_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae2e9731a043030800000000000000
+      internalID: 3473412291375065829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

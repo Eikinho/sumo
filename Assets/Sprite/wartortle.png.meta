@@ -1,0 +1,2208 @@
+fileFormatVersion: 2
+guid: 61d75cc53a9095b49a571dcf2b400cc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4345388386058288
+    second: wartortle_0
+  - first:
+      213: 1396105606928240840
+    second: wartortle_1
+  - first:
+      213: -1483030831141560660
+    second: wartortle_2
+  - first:
+      213: 3120452058382496358
+    second: wartortle_3
+  - first:
+      213: 4800650089085821704
+    second: wartortle_4
+  - first:
+      213: 7450673717739327138
+    second: wartortle_5
+  - first:
+      213: -7434696860320120411
+    second: wartortle_6
+  - first:
+      213: -3734127085127602307
+    second: wartortle_7
+  - first:
+      213: 160659095621578127
+    second: wartortle_8
+  - first:
+      213: 1280142374165164232
+    second: wartortle_9
+  - first:
+      213: 2059627791906702682
+    second: wartortle_10
+  - first:
+      213: 3236255316920621456
+    second: wartortle_11
+  - first:
+      213: 2232687881558463097
+    second: wartortle_12
+  - first:
+      213: -5673123832981390882
+    second: wartortle_13
+  - first:
+      213: -2379940100440645831
+    second: wartortle_14
+  - first:
+      213: -608279113728692365
+    second: wartortle_15
+  - first:
+      213: -7126848506667195848
+    second: wartortle_16
+  - first:
+      213: -4234514606121148318
+    second: wartortle_17
+  - first:
+      213: -5671421193994903245
+    second: wartortle_18
+  - first:
+      213: 1244041175295119901
+    second: wartortle_19
+  - first:
+      213: 7364600356496816158
+    second: wartortle_20
+  - first:
+      213: -3900971261245186408
+    second: wartortle_21
+  - first:
+      213: 3392416413415137381
+    second: wartortle_22
+  - first:
+      213: 4790055070337915442
+    second: wartortle_23
+  - first:
+      213: -8199844738357989191
+    second: wartortle_24
+  - first:
+      213: 4027650276483171114
+    second: wartortle_25
+  - first:
+      213: 447602716559863339
+    second: wartortle_26
+  - first:
+      213: -3654215382474528983
+    second: wartortle_27
+  - first:
+      213: 6946513396456033351
+    second: wartortle_28
+  - first:
+      213: -3272162990169312886
+    second: wartortle_29
+  - first:
+      213: -2600795376354581240
+    second: wartortle_30
+  - first:
+      213: -1163198315417271612
+    second: wartortle_31
+  - first:
+      213: 8826286722115552690
+    second: wartortle_32
+  - first:
+      213: 7643632565702424790
+    second: wartortle_33
+  - first:
+      213: -7885600667094706634
+    second: wartortle_34
+  - first:
+      213: -4995593227680521623
+    second: wartortle_35
+  - first:
+      213: 8631225407310208664
+    second: wartortle_36
+  - first:
+      213: -6629305390904498514
+    second: wartortle_37
+  - first:
+      213: 4752733154619993286
+    second: wartortle_38
+  - first:
+      213: -2308297203733969770
+    second: wartortle_39
+  - first:
+      213: -5005639037809027340
+    second: wartortle_40
+  - first:
+      213: -6139526041976527404
+    second: wartortle_41
+  - first:
+      213: -1498801403250391760
+    second: wartortle_42
+  - first:
+      213: -8433606576253577562
+    second: wartortle_43
+  - first:
+      213: 5322819779926397346
+    second: wartortle_44
+  - first:
+      213: 186655144320926222
+    second: wartortle_45
+  - first:
+      213: -5261122994699408128
+    second: wartortle_46
+  - first:
+      213: -8481512699418333488
+    second: wartortle_47
+  - first:
+      213: 754141303342182753
+    second: wartortle_48
+  - first:
+      213: -5106952028576735960
+    second: wartortle_49
+  - first:
+      213: 311800222847882303
+    second: wartortle_50
+  - first:
+      213: 3729107619221805872
+    second: wartortle_51
+  - first:
+      213: -6202527962418888791
+    second: wartortle_52
+  - first:
+      213: -4652622919014300082
+    second: wartortle_53
+  - first:
+      213: -5990448217363289546
+    second: wartortle_54
+  - first:
+      213: -6572204265439652580
+    second: wartortle_55
+  - first:
+      213: 4850380810214628409
+    second: wartortle_56
+  - first:
+      213: -3730118927300879835
+    second: wartortle_57
+  - first:
+      213: -854837635481104474
+    second: wartortle_58
+  - first:
+      213: 4737550311926370321
+    second: wartortle_59
+  - first:
+      213: -4563185501115797506
+    second: wartortle_60
+  - first:
+      213: 6536285467800480942
+    second: wartortle_61
+  - first:
+      213: -4314915809325661639
+    second: wartortle_62
+  - first:
+      213: 7178748387548671921
+    second: wartortle_63
+  - first:
+      213: 643625131965376481
+    second: wartortle_64
+  - first:
+      213: -5114309096056420262
+    second: wartortle_65
+  - first:
+      213: 262646216054536483
+    second: wartortle_66
+  - first:
+      213: 5259852658162222444
+    second: wartortle_67
+  - first:
+      213: 3155829724259680101
+    second: wartortle_68
+  - first:
+      213: -5201123029920826733
+    second: wartortle_69
+  - first:
+      213: 5997653609572411910
+    second: wartortle_70
+  - first:
+      213: -7214682596459349073
+    second: wartortle_71
+  - first:
+      213: -5348557277755463875
+    second: wartortle_72
+  - first:
+      213: 7221936056553437897
+    second: wartortle_73
+  - first:
+      213: -2260400566038039946
+    second: wartortle_74
+  - first:
+      213: -814953587916213047
+    second: wartortle_75
+  - first:
+      213: 7527468138867533064
+    second: wartortle_76
+  - first:
+      213: 7444584871760434090
+    second: wartortle_77
+  - first:
+      213: -4253837674005324621
+    second: wartortle_78
+  - first:
+      213: 9062047633385818597
+    second: wartortle_79
+  - first:
+      213: 9203696313288101565
+    second: wartortle_80
+  - first:
+      213: 7126336142206048340
+    second: wartortle_81
+  - first:
+      213: 2397643645003344205
+    second: wartortle_82
+  - first:
+      213: 1318079110990658152
+    second: wartortle_83
+  - first:
+      213: -8035349093615160469
+    second: wartortle_84
+  - first:
+      213: -2516819480874903330
+    second: wartortle_85
+  - first:
+      213: -5347709640275233999
+    second: wartortle_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wartortle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df76dc64ef80fff0800000000000000
+      internalID: -4345388386058288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 513
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c093e117a6ff5310800000000000000
+      internalID: 1396105606928240840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 513
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caedad601573b6be0800000000000000
+      internalID: -1483030831141560660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 513
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662768e3d921e4b20800000000000000
+      internalID: 3120452058382496358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 513
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80368e232d55f9240800000000000000
+      internalID: 4800650089085821704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 513
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae013b554c166760800000000000000
+      internalID: 7450673717739327138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 513
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a148e3a896a2d890800000000000000
+      internalID: -7434696860320120411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 513
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fedc84337bd2cc0800000000000000
+      internalID: -3734127085127602307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 513
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8da574a896ca3200800000000000000
+      internalID: 160659095621578127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03a02f4baf3c110800000000000000
+      internalID: 1280142374165164232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 456
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a550f1a7094459c10800000000000000
+      internalID: 2059627791906702682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 456
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099d587701d79ec20800000000000000
+      internalID: 3236255316920621456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 456
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729c9a8cc91cfe10800000000000000
+      internalID: 2232687881558463097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 456
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed977507ee30541b0800000000000000
+      internalID: -5673123832981390882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 456
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f178e8611c8fed0800000000000000
+      internalID: -2379940100440645831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 456
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f69ed6e55fe87f0800000000000000
+      internalID: -608279113728692365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 456
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8322418fa09581d90800000000000000
+      internalID: -7126848506667195848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 456
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26022f1b66bfb35c0800000000000000
+      internalID: -4234514606121148318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331ef48f8701b41b0800000000000000
+      internalID: -5671421193994903245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 399
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12dc639bd8b34110800000000000000
+      internalID: 1244041175295119901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 399
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1835b14101543660800000000000000
+      internalID: 7364600356496816158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 399
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e197e5e47fcd9c0800000000000000
+      internalID: -3900971261245186408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 399
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56060d311c8441f20800000000000000
+      internalID: 3392416413415137381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 399
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23adc0a25b1b97240800000000000000
+      internalID: 4790055070337915442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 399
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f0d4b7ac443e80800000000000000
+      internalID: -8199844738357989191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 399
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238849469615e730800000000000000
+      internalID: 4027650276483171114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 399
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eec099c44363600800000000000000
+      internalID: 447602716559863339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92766d2787e994dc0800000000000000
+      internalID: -3654215382474528983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 342
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c014f3129f66060800000000000000
+      internalID: 6946513396456033351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 342
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8137cbd811f692d0800000000000000
+      internalID: -3272162990169312886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 342
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80528e2826e18ebd0800000000000000
+      internalID: -2600795376354581240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 342
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c288368b4d7bdfe0800000000000000
+      internalID: -1163198315417271612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 342
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c17592054d7a70800000000000000
+      internalID: 8826286722115552690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 342
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8fc402253a31a60800000000000000
+      internalID: 7643632565702424790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_34
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 342
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6369c3519f7b09290800000000000000
+      internalID: -7885600667094706634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 342
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96261cd5d661caab0800000000000000
+      internalID: -4995593227680521623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 285
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1d0b17c548c770800000000000000
+      internalID: 8631225407310208664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 285
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62e8bded9fff3a0800000000000000
+      internalID: -6629305390904498514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 285
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca8518f9915f140800000000000000
+      internalID: 4752733154619993286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 285
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694c86f4ce747ffd0800000000000000
+      internalID: -2308297203733969770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6909de0d5688ab0800000000000000
+      internalID: -5005639037809027340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 285
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5aabae7950ccaa0800000000000000
+      internalID: -6139526041976527404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 285
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03547629010333be0800000000000000
+      internalID: -1498801403250391760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 285
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6d107808fc5fa80800000000000000
+      internalID: -8433606576253577562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 285
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a19fe963647ed940800000000000000
+      internalID: 5322819779926397346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e028fb46dd1279200800000000000000
+      internalID: 186655144320926222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 228
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d6d4dc28cbcf6b0800000000000000
+      internalID: -5261122994699408128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 228
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea439032d9b4a80800000000000000
+      internalID: -8481512699418333488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_48
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 228
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1613920158f377a00800000000000000
+      internalID: 754141303342182753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 228
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d19b310367029b0800000000000000
+      internalID: -5106952028576735960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 228
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345cb396acb35400800000000000000
+      internalID: 311800222847882303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 228
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b1bec3f9370c330800000000000000
+      internalID: 3729107619221805872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_52
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 228
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af389a3ea13ce9a0800000000000000
+      internalID: -6202527962418888791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_53
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 228
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46cf461b109e6fb0800000000000000
+      internalID: -4652622919014300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a60b6c517addca0800000000000000
+      internalID: -5990448217363289546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 171
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159927aa07dac4a0800000000000000
+      internalID: -6572204265439652580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 171
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd63206a3005340800000000000000
+      internalID: 4850380810214628409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 171
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a15404994fb3cc0800000000000000
+      internalID: -3730118927300879835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 171
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af838c13b10324f0800000000000000
+      internalID: -854837635481104474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_59
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 171
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11099e778e82fb140800000000000000
+      internalID: 4737550311926370321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_60
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 171
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa7c9a6fe4ca0c0800000000000000
+      internalID: -4563185501115797506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_61
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 171
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacabc2900d85ba50800000000000000
+      internalID: 6536285467800480942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_62
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 171
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324d6dcee65e14c0800000000000000
+      internalID: -4314915809325661639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2fb3bf9900a360800000000000000
+      internalID: 7178748387548671921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 114
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76f4fb5ad9ee800800000000000000
+      internalID: 643625131965376481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 114
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58020259f25609b0800000000000000
+      internalID: -5114309096056420262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_66
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 114
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f789875b15a300800000000000000
+      internalID: 262646216054536483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 114
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6547acef10cef840800000000000000
+      internalID: 5259852658162222444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_68
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 114
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ffd16f962cbcb20800000000000000
+      internalID: 3155829724259680101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_69
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 114
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a37783926e1d7b0800000000000000
+      internalID: -5201123029920826733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_70
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 114
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a27645e22fb3350800000000000000
+      internalID: 5997653609572411910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_71
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf8de476c40eb90800000000000000
+      internalID: -7214682596459349073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372e866e7b16c5b0800000000000000
+      internalID: -5348557277755463875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 57
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf3797498793460800000000000000
+      internalID: 7221936056553437897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672f53b49a171a0e0800000000000000
+      internalID: -2260400566038039946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_75
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 57
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f2d39704b0b4f0800000000000000
+      internalID: -814953587916213047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_76
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 57
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805254bd360f67860800000000000000
+      internalID: 7527468138867533064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_77
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 57
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3178d6f7a705760800000000000000
+      internalID: 7444584871760434090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_78
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 57
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1dbc5c2557f4c0800000000000000
+      internalID: -4253837674005324621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_79
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 57
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e981ad4f4cd2cd70800000000000000
+      internalID: 9062047633385818597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_80
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 57
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0c1e98091abf70800000000000000
+      internalID: 9203696313288101565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4581832e6f4d5e260800000000000000
+      internalID: 7126336142206048340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49a56e1134264120800000000000000
+      internalID: 2397643645003344205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af57cc7f1ca4210800000000000000
+      internalID: 1318079110990658152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63bfcc8294bc7090800000000000000
+      internalID: -8035349093615160469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_85
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81bae4406721dd0800000000000000
+      internalID: -2516819480874903330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wartortle_86
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13376716a6e19c5b0800000000000000
+      internalID: -5347709640275233999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

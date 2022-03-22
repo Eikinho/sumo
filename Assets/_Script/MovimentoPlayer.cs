@@ -115,11 +115,13 @@ public class MovimentoPlayer : MonoBehaviour
             print("level3");
             levelPlayer = 3;
             changeSizeLevelUp(1,0.5f,0.5f,2f);
+            animator.SetInteger("evolution", 2);
         }
         else if (levelPlayer_fragment>=3 && levelPlayer <2){
             print("level2");
             levelPlayer = 2;
             changeSizeLevelUp(1,0.5f,0.5f,1f);
+            animator.SetInteger("evolution", 1);
         }
     }
 
@@ -145,6 +147,7 @@ public class MovimentoPlayer : MonoBehaviour
 
         if (gm.gameState == GameManager.GameState.ENDGAME)
         {
+            animator.SetInteger("evolution", 0);
             gm.p1PokemonId = 0;
             gm.p2PokemonId = 0;
             gm.pChoosing = 1;
