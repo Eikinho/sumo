@@ -22,6 +22,8 @@ public class MovimentoPlayer : MonoBehaviour
     public int levelPlayer;
     public int levelPlayer_fragment;
 
+    public ParticleSystem dust;
+
     public int level;
 
 
@@ -121,6 +123,20 @@ public class MovimentoPlayer : MonoBehaviour
         }
     }
 
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        
+        StartCoroutine(CreateDust(1.0f,collision.contacts[0].point));
+        
+    }
+
+    IEnumerator CreateDust(float seconds,Vector2 contact)
+    {
+        ParticleSystem dust_ =  (ParticleSystem)Instantiate(dust, contact, Quaternion.identity);
+        dust_.Play();
+        yield return new WaitForSeconds(seconds);
+        Destroy(dust_.gameObject);
+    }
 
 
     // Update is called once per frame
