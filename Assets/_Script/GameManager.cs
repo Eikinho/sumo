@@ -50,6 +50,8 @@ public class GameManager
         if (nextState == GameState.GAME && gameState != GameState.PAUSE){
             Reset();
             GameObject.Find("LevelUpPool").GetComponent<LevelUpSpawner>().Reset();
+            GameObject.Find("Player1").GetComponent<MovimentoPlayer>().ResetPower();
+            GameObject.Find("Player2").GetComponent<MovimentoPlayer>().ResetPower();
 
         } 
 

@@ -26,7 +26,11 @@ public class MovimentoPlayer : MonoBehaviour
 
     public int level;
 
+    public float mass_start;
 
+    public Vector3 size_start;
+
+    public float start_speed;
     bool PointInsideSphere(Vector3 point, Vector3 center, float radius) {
         return Vector3.Distance(point, center) < radius;
      }
@@ -34,15 +38,17 @@ public class MovimentoPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        start_speed = 5.75f;
         levelPlayer_fragment = 0;
         levelPlayer = 1;
         gm = GameManager.GetInstance();
         start_point = transform.position;
         m_Rigidbody = GetComponent<Rigidbody2D>();
         animator =  GetComponent<Animator>();
-
+        mass_start = m_Rigidbody.mass;
+        size_start = transform.localScale;
         montanha = GameObject.FindGameObjectWithTag("Mountain");
-        m_Speed = 5.75f;
+        m_Speed = start_speed;
         is_inside = true;
         montanha_radius = montanha.transform.localScale.x / 2;
         
@@ -62,6 +68,15 @@ public class MovimentoPlayer : MonoBehaviour
         m_Rigidbody.velocity = new Vector3(0,0,0);
         gameObject.GetComponent<Renderer>().enabled = true;
         gameObject.GetComponent<CircleCollider2D>().enabled = true;
+    }
+
+    public void ResetPower(){
+        levelPlayer_fragment=0;
+        levelPlayer=1;
+        m_Rigidbody.mass = mass_start;
+        transform.localScale = size_start;
+        m_Speed = start_speed;
+        animator.SetInteger("evolution", 0);
     }
 
 
@@ -114,13 +129,13 @@ public class MovimentoPlayer : MonoBehaviour
         if (levelPlayer_fragment>=6 && levelPlayer <3){
             print("level3");
             levelPlayer = 3;
-            changeSizeLevelUp(1,0.5f,0.5f,2f);
+            changeSizeLevelUp(1,0.5f,0.5f,7.0f);
             animator.SetInteger("evolution", 2);
         }
         else if (levelPlayer_fragment>=3 && levelPlayer <2){
             print("level2");
             levelPlayer = 2;
-            changeSizeLevelUp(1,0.5f,0.5f,1f);
+            changeSizeLevelUp(1,0.5f,0.5f,5.5f);
             animator.SetInteger("evolution", 1);
         }
     }
@@ -161,23 +176,23 @@ public class MovimentoPlayer : MonoBehaviour
         
         is_inside = PointInsideSphere(transform.position, montanha.transform.position, montanha_radius);
 
-        if(number_player ==1){
+        if(number_player ==2){
 
-            animator.SetInteger("pokeId", gm.p1PokemonId);
+            animator.SetInteger("pokeId", gm.p2PokemonId);
 
             if (Input.GetKey(KeyCode.RightArrow))
             {
 
                 //rotate the sprite about the Z axis in the positive direction
                 // transform.Rotate(new Vector3(0, 0, -1) * horizontal_speed * Time.deltaTime, Space.World);
-                m_Rigidbody.AddForce(transform.right * -m_Speed);
+                m_Rigidbody.AddForce(transform.right * m_Speed);
             }
 
             if (Input.GetKey(KeyCode.LeftArrow))
             {
                 //rotate the sprite about the Z axis in the positive direction
                 // transform.Rotate(new Vector3(0, 0, 1) * horizontal_speed * Time.deltaTime, Space.World);
-                m_Rigidbody.AddForce(transform.right * m_Speed);
+                m_Rigidbody.AddForce(transform.right * -m_Speed);
             }
 
             if (Input.GetKey(KeyCode.UpArrow))
@@ -192,9 +207,9 @@ public class MovimentoPlayer : MonoBehaviour
             }
         }
 
-        else if(number_player ==2){
+        else if(number_player ==1){
 
-            animator.SetInteger("pokeId", gm.p2PokemonId);
+            animator.SetInteger("pokeId", gm.p1PokemonId);
 
             if (Input.GetKey(KeyCode.D))
             {
@@ -230,6 +245,7 @@ public class MovimentoPlayer : MonoBehaviour
         if (is_inside == false) {
             transform.position = start_point;
             m_Rigidbody.velocity = new Vector3(0,0,0);
+            ResetPower();
             Reset();
             
         }
