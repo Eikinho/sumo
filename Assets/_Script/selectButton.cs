@@ -18,7 +18,7 @@ public class selectButton : MonoBehaviour
     }
 
     public void choosed() {
-        gm.pChoosing = 2;
+        gm.pChoosing += 1;
     }
 
     // Update is called once per frame
