@@ -16,7 +16,7 @@ public class EnemySpawner : MonoBehaviour
             new Vector3(0,3,0),new Vector3(0,-3,0)
         };
         listOfColors = new List<Color>{
-            Color.white, Color.white
+            new Color(1.0f,0.87f,0.55f), new Color(0.57f,0.79f,1.0f)
         };
 
 
@@ -38,6 +38,7 @@ public class EnemySpawner : MonoBehaviour
                 var enemy =  (GameObject)Instantiate(Enemy, listOfPosition[i], Quaternion.identity, transform);
                 enemy.GetComponent<MovimentoEnemy>().follow_player = i+1;
                 enemy.GetComponent<Renderer>().material.color = listOfColors[i];
+
                 
             }
         }
