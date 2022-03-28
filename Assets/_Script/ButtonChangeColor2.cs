@@ -3,25 +3,23 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ButtonColorChange : MonoBehaviour
+public class ButtonChangeColor2 : MonoBehaviour
 {
-    public Button button;
     GameManager gm;
+    public Button button;
     public Color wantedcollor;
     // Start is called before the first frame update
     void Start()
     {
         // button.colors = Color.white;
         gm = GameManager.GetInstance();
+        
     }
 
     // Update is called once per frame
     void Update()
-    {
-         if (gm.pChoosing == 1)
-        {
-            button.GetComponentInChildren<Text>().text = "SELECT";
-        }
+    {   
+       
     }
 
     public void ChangeButtonColor(){

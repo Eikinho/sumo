@@ -14,10 +14,10 @@ public class UI_EndGame : MonoBehaviour
         gm = GameManager.GetInstance();
         message.text = "";
         if (gm.vidasPlayer1 <= 0){
-            message.text = "Vencedor: Player 2";
+            message.text = "VENCEDOR: PLAYER 2";
         }
         else{
-            message.text = "Vencedor: Player 1";
+            message.text = "VENCEDOR: PLAYER 1";
         }
     }
 
